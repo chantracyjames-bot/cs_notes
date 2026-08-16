@@ -1,0 +1,5 @@
+**/*.md linguist-detectable=true
+**/*.md linguist-documentation=false
+
+# Set the default behavior for all files.
+* text=auto eol=lf
