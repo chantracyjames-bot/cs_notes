@@ -1,4 +1,4 @@
-# [Table of Contents](main)
+# [Table of Contents](main.md)
 # Topic 3 & 4
 - Learning Outcomes
   * Identify the main components of a computer system, including the Central Processing Unit (CPU), memory (RAM), input/output devices, storage devices, and buses.

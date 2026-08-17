@@ -1,4 +1,4 @@
-# > [Table of Contents](main)
+# > [Table of Contents](main.md)
 # Notes
 ## What is Computer?
 - an __electronic device that can process and store information__

@@ -1,4 +1,4 @@
-# > [Table of Contents](main)
+# > [Table of Contents](main.md)
 # Week 4
 ## Calculating the Memory Address of an element
 

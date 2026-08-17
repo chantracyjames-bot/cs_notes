@@ -1,4 +1,4 @@
-# > [Table of Contents](main)
+# > [Table of Contents](main.md)
 # Week 1-3
 ## Computer Systems
 - __Program__

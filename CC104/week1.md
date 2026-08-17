@@ -1,4 +1,4 @@
-# > [Table of Contents](main)
+# > [Table of Contents](main.md)
 # Week 1
 ## Background
 - programs are comprised of:
@@ -248,4 +248,4 @@
                   = 3
 --> 
 
-# > [Week 4](CC104/week4)
+# > [Week 4](CC104/week4.md)

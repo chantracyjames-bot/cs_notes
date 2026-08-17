@@ -1,4 +1,4 @@
-# > [Table of Contents](main)
+# > [Table of Contents](main.md)
 ## Lessons
 - _Data Structures and Algorithms_
   * _1st Semester_ / __Midterm__
