@@ -1,4 +1,5 @@
-## Lessons to cover in Data Structures and Algorithms
+# > [Table of Contents](main)
+## Lessons
 - _Data Structures and Algorithms_
   * _1st Semester_ / __Midterm__
     + Mathematical Functions

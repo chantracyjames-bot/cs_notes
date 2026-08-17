@@ -1,3 +1,4 @@
+# > [Table of Contents](main)
 # Week 4
 ## Calculating the Memory Address of an element
 
@@ -38,7 +39,7 @@
                       = 3000
   ```
 - Diagram:
-   ![One-Dimensional Arrays](../../html-css/image_sets/CC104-0.png)
+   ![[CC104-0.png]]
 
 ### Two-Dimensional Arrays
 - Definition:
@@ -61,7 +62,7 @@
     * The elements are __horizontally linear__ in memory.
   * Formula:
     + __Two Dimensional Row Major Order Formula__
-      $$Address[I][J] = B + W * ((I - LR) * N + (J - LC))
+      $$Address[I][J] = B + W * ((I - LR) * N + (J - LC))$$
     + Where:
       - _Address_ 
         * Is the Address of the element in the array.
@@ -113,7 +114,7 @@
     * The elements are __vertically linear__ in memory.
   * Formula:
     + __Two Dimensional Column Major Order Formula__
-      $$Address[I][J] = B + W * {(J - LC) * N + (I - SR)}
+      $$Address[I][J] = B + W * {(J - LC) * N + (I - SR)}$$
     + Where:
       - _Address_ 
         * Is the Address of the element in the array.
@@ -316,4 +317,4 @@
                          = 972
     ```
 - Diagram:
-   ![Three Dimensional Arrays](../../html-css/image_sets/CC104-1.png)
+	![[CC104-1.png]]

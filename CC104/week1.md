@@ -1,3 +1,4 @@
+# > [Table of Contents](main)
 # Week 1
 ## Background
 - programs are comprised of:
@@ -246,3 +247,5 @@
                   = 6 / 2
                   = 3
 --> 
+
+# > [Week 4](CC104/week4)
