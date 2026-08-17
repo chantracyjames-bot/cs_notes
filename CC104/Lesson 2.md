@@ -1,8 +1,10 @@
-# > [Table of Contents](main.md)
-# Week 4
+### > [Table of Contents](main.md)
+# CC104
+---
 ## Calculating the Memory Address of an element
-
-### One-Dimensional Arrays
+- There are various ways to calculate the memory address of an element inside an array. 
+- It varies whether or not the array is; One-Dimensional, Two-Dimensional (Row Major Order or Column Major Order), Three-Dimensional (Row Major Order or Column Major Order), or more.
+## One-Dimensional Arrays
 - Definition:
   * Also known as 1-D arrays.
   * Are a type of a linear array where the elements are accessed using a single index.
@@ -40,8 +42,7 @@
   ```
 - Diagram:
    ![[CC104-0.png]]
-
-### Two-Dimensional Arrays
+## Two-Dimensional Arrays
 - Definition:
   * Also known as 2-D arrays, or array of arrays.
   * Similar to a Matrix, with its grid-like structure—with rows and columns having their own elements.
@@ -55,7 +56,7 @@
   | row 0 | a[0][0] | a[0][1] | a[0][2] |
   | row 1 | a[1][0] | a[1][1] | a[1][2] |
   | row 2 | a[2][0] | a[2][1] | a[2][2] |
-- __2-D Row Major Order__
+### - __2-D Row Major Order__
   * Definition
     + In this type of 2-D array, the elements of an array are stored in one row at a time.
     + Meaning, all the elements in the first row are stored first in memory, then all the elements in the second row, and so on.
@@ -107,7 +108,7 @@
                  = 200 + 260
                  = 460
     ```
-- __2-D Column Major Order__
+### - __2-D Column Major Order__
   * Definition:
     + In this type of 2-D array, the elements of an array are stored in one column at a time.
     + Meaning, all the elements in the first column are stored first in memory, then all the elements in the second column, and so on.
@@ -150,7 +151,7 @@
         + LC = 3
         + N = 11
     - Solution:
-    ```
+	    ```
          A[I][J] = B + W * ((J - LC) * N + (I - LR))
         A[10][5] = 200 + 2 * {(5 - 3) * 11 + (10 - 2)}
                  = 200 + 2 * {(2) * 11 + (8)}
@@ -158,9 +159,8 @@
                  = 200 + 2 * {30}
                  = 200 + 60
                  = 260
-    ```
-
-### Three Dimensional Arrays
+	    ```
+## Three Dimensional Arrays
 - Definition
   * Is a collection of 2-D arrays.
   * It is specified by using three subscripts
@@ -169,7 +169,7 @@
     + Column Size
   * More dimensions in an array means more data can be stored in that array.
   * There are two ways to find the address in a 3-D array
-- __3-D Row Major Oder__
+### - __3-D Row Major Oder__
   * Definition:
     + The elements of a 3-D array are stored one row at a time within each block.
     + Once all of the rows in a block are stored (or filled), it moves on to the next block.
@@ -243,7 +243,7 @@
                    = 764
     ```
     <!-- wth is this? got it in my first try -->
-- __3-D Row Major Oder__
+### - __3-D Row Major Oder__
   * Definition:
     + The elements of a 3-D array are stored one column at a time within each block.
     + Once all of the columns in a block are stored (or filled), it moves on to the next block.

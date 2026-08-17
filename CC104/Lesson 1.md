@@ -1,18 +1,20 @@
-# > [Table of Contents](main.md)
-# Week 1
-## Background
-- programs are comprised of:
-  * Data; and
-  * Algorithms
-- __Programming__ is a problem solving process, wherein;
-  * the problem is defined,
-  * the data to manipulate and work on is distinguished, and
-  * the expected result is determined.
-- it is implemented in a machine known as a _computer_ and the operations provided by the machine is used to solve the given problem.
+### > [Table of Contents](main.md)
+# CC104
+---
 ## Problem Solving Process (PSP)
-- it could be viewed in the followring terms of domains; problem, machine, and solution.
-  * __Problem Domain__
-    + According to C2 Wiki:
+- Background
+	- Programs are comprised of:
+	  * Data; and
+	  * Algorithms
+	- __Programming__ is a problem solving process, wherein;
+	  * the problem is defined,
+	  * the data to manipulate and work on is distinguished, and
+	  * the expected result is determined.
+	- it is implemented in a machine known as a _computer_ and the operations provided by the machine is used to solve the given problem.
+- Definition
+	- it could be viewed in the following terms of domains; problem, machine, and solution.
+* __Problem Domain__
+   + According to C2 Wiki:
       - The Problem Domain is a term that refers to all information that defines the problem and constrains the solution, the constraints being part of the problem.
       - It includes the goals of the author of the problem wished to achieve, the context (and setting) within which the problem exists in, and all rules taht define essential functions or other aspects of any solution product.
       - It represents the environment in which a solution will have to operate in, as well as the problem itself.
@@ -248,4 +250,4 @@
                   = 3
 --> 
 
-# > [Week 4](CC104/week4.md)
+# > [Lesson 2](CC104/Lesson%202.md)
