@@ -13,6 +13,7 @@
 ## Information Managements (CC105)
 ### > [Week 1](CC105/week1.md)
 ### > [Week 2](CC105/week2.md)
+### > [Week 4](CC105/week4.md)
 ## Architecture and Organization (CSP103)
 ### > [notes](CSP103/notes.md)
 ### > [Lesson 1-2](CSP103/lesson1-2.md)
