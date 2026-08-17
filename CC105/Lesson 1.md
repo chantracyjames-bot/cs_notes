@@ -1,14 +1,31 @@
 # > [Table of Contents](main.md)
-# Week 2
+# CC105
+---
+### Information Managememt
+- follows the IPO principle, _Input_, _Process_, and _Output_.
+  * Input
+    + contains facts and data.
+  * Process
+    + the methods that converts data into information.
+  * Output
+    + is the processed information.
+- tackles how to __store__ data.
+- __Knowledge vs Wisdom__
+  * _Knowledge_
+    + contains the processed information.
+  * _Wisdom_
+    + it is how the information is applied.
+    + available to the decision makers, or available to be utilized for actions.
 
-## Prerequisites
+<!--
+learn more about databased like MySQL
+-->
 - Resources
   * TOPCIT
     + An IT assessment tool used to assess the skills and competencies of information technology specialists and software developers, focusing on the abilities required to perform effectively in professional roles.
     + Originates from South Korea, primarily used for examinations, guaging the level of skill of every participant.
 - Lessons and Targets 
   * Understanding and Using Data. In designing and automation of databases and the foundations of what we call databases.
-
 ## Databases
 - Focus: __Data__
 - Main Figure:
@@ -47,7 +64,6 @@ Encoding -> Programmers -> Information
     + A non-SQL or non-relational database wherein it provides mechanisms for storing and retrieving data that does not rely on traditional table-based relational models.
     * Instead, it uses flecible data models like key-value pairs, documents, column families, or graphs, making it ideal for handling unstructured, semi-structured, and structured data.
 <!-- Fundatmental Systems Design: ig research more about it? the professor said something about using TOPCIT -->
-
 ## Information Systems
 - Foundation
   * _Fact_ -> __Phenomenon__
@@ -105,3 +121,5 @@ Encoding -> Programmers -> Information
   * CRUD
   * maximum of 5 columns / date inputs (entries)
 -->
+
+# > [Lesson 1](CC105/Lesson%201.md)
