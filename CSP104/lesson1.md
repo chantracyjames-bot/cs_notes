@@ -1,3 +1,4 @@
+# > [Table of Contents](main)
 # Lesson 1
 <!-- AI generated powerpoint presentation? -->
 ## Course Orientation
