@@ -1,5 +1,6 @@
-# > [Table of Contents](main.md)
-# Topic 1 & 2
+### > [Table of Contents](main.md)
+# CSP103
+---
 ## Background
 - Relationship between Architecture and Organization
   *__Definition__
@@ -33,7 +34,6 @@
     + it carries out simple (reduced) instructions.
     + taking around a single cycle to complete a single instruction
     + it has the advantage of simplified implementation at the cost of slow speed.
-
 ## Target
 - Learning Outcomes
   * Define computer
@@ -54,8 +54,7 @@
   2. Computer Organization (CO) VS Computer Architecture (CA)
     + 2.1.Definition and significance.
     + 2.2.Distinction between computer organization and computer architecture.
-
-## What is a Computer?
+## __What is a Computer?__
 - Definition
   * A computer is an _electronic device_ that can __process and store information__.
   * It can __perform calculations__, __manipulate data__, and __execute instructions__ to __accomplish specific tasks__.
@@ -110,7 +109,7 @@
         Step 4: And our screen will show the letter ‘A’.
       ```
     + Under the hood process: When we pressed the capslock or shift key, the software tells that whatever following this keypress should be printed on the screen and after we have pressed the letter a which is small letter, the software first converts it into binary like it had converted the shift or capslock key andthen after the computer understands it prints A on the screen.
-- __Features of a Computer__
+### - __Features of a Computer__
   * __Processor__:
     + It the __brain of the computer__, carrying out all the __instructions and calculations__ required by the system.
   * __Memory__:
@@ -134,7 +133,7 @@
     + Enables the computer to display and manipulate images, and play sounds and videos.
   * __Connectivity__:
     + Features like USB, Wi-Fi, Bluetooth, and Ethernet enable the computer to connect to other devices and the internet.
-- __Advantages of Computers__
+### - __Advantages of Computers__
   * __Increased Efficiency and Productivity__: 
     + Computers can __perform tasks much faster and more accurately__ than humans, allowing for __increased efficiency and productivity__ in various industries.
   * __Storage and Organization of Information__: 
@@ -145,7 +144,7 @@
     + The internet provides __access to a vast amount of information and resources__ that would otherwise be difficult or impossible to obtain.
   * __Automation of Repetitive Tasks__: 
     + Computers __can automate repetitive and mundane tasks__, __freeing up time and resources__ for more important work.
-- __Disadvantages of Computers__
+### - __Disadvantages of Computers__
   * __Dependence on technology__: 
     + Over-reliance on computers __can lead to problems if they break down or malfunction__, leading to loss of productivity and data.
   * __Security risks__: 
@@ -156,9 +155,8 @@
     + The production and disposal of computers __can have a negative impact on the environment__ due to the use of resources and the creation of electronic waste.
   * __Job displacement__: 
     + Automation and the use of computers __can lead to job displacement in certain industries__, requiring workers to adapt to new skill sets or find new employment.
-
 ## Introduction to Computer Organization and Computer Architecture
-- Computer Organization
+### - __Computer Organization__
   * Scope and Definition
     + Refers to the __physical aspects__ of a _computer system_ — the __organizational units and their interconnections__.
     + It concerns the __computer system's realization and the hardware components' operational behavior__, ensuring __they work together seemlessly__ to perform computational tasks.
@@ -215,8 +213,7 @@
                          |-------------------------|
 ``` 
 <!--help me, i spent like 20 minutes on this-->
-
-- Computer Architecture
+### - __Computer Architecture__
   * Scope and Definition
     + Focuses on the __logical and functional design__ of a computer system.
     + It deals with the __conceptual design and the fundamental operational structure__, which defines _how a computer perform tasks and interacts with software_.
@@ -246,40 +243,38 @@
         * __Secondary Storage__ — _HDDs_, __SSDs__
     > The architecture dictates how frequently used data is stored in cache memory to reduce the CPU's time to access it, thereby improving performance. 
   - Memory Hierchy of a CPU        
-```
-
-        /\                           /\                        |------|
-       /  \                         /  \                       |      |
-      /    \                       /    \                      |      |
-     /      \                     /      \                     |      |
-    /        \                   /        \                    |      |
-   /          \                 / Central  \                   |      |
-  /            \               / Processing \                  |      |
- /--------------\             /     Unit     \                 |      |
-     |      |                /  (registers)   \                |      |
-     |      |               /------------------\               |      |
-     |      |              /  L1, L2, L3 Cache  \              |      |
-     |      |             / Static Random Access \             |      |
-     |      |            /         Memory         \            |      |
-     |      |           /--------------------------\       \--------------/
-     |      |          /        Main Memory         \       \            /
-     |      |         /    Dynamic Random Access     \       \          /
-     |      |        /             Memory             \       \        /
-     |      |       /----------------------------------\       \      /
-     |      |      /     Secondary memory (storage)     \       \    /
-     |      |     /       magnetic or flash media        \       \  /
-     |------|    /----------------------------------------\       \/
-   Higher means                                               Lower means
-Higher Performance                                          Higher Latency
- Endurance per Bit                                        Higher Persistence
-   Higher Speeds
-```
-
-- __Common Goals and Interdependence__
-  * The overarching goal of both computer organization and architecture is to design an __efficient, cost-effective, and powerful computer system__.
-  * An equally well-organized set of hardware must support the design of a computer's architecture to ensure the system functions as intended.
-  > In a modern CPU, the pipeline architecture (an architectural feature that allows multiple instructions to be processed simultaneously) must be supported by an organized system of data paths and control signals. This ensures instructions are fetched, decoded, and executed orderly and efficiently, maximizing the CPU’s performance. 
-- __Contrast Between Computer Organization and Computer Architecture__
+	```
+		        /\                           /\                        |------|
+		       /  \                         /  \                       |      |
+		      /    \                       /    \                      |      |
+		     /      \                     /      \                     |      |
+		    /        \                   /        \                    |      |
+		   /          \                 / Central  \                   |      |
+		  /            \               / Processing \                  |      |
+		 /--------------\             /     Unit     \                 |      |
+		     |      |                /  (registers)   \                |      |
+		     |      |               /------------------\               |      |
+		     |      |              /  L1, L2, L3 Cache  \              |      |
+		     |      |             / Static Random Access \             |      |
+		     |      |            /         Memory         \            |      |
+		     |      |           /--------------------------\       \--------------/
+		     |      |          /        Main Memory         \       \            /
+		     |      |         /    Dynamic Random Access     \       \          /
+		     |      |        /             Memory             \       \        /
+		     |      |       /----------------------------------\       \      /
+		     |      |      /     Secondary memory (storage)     \       \    /
+		     |      |     /       magnetic or flash media        \       \  /
+		     |------|    /----------------------------------------\       \/
+		   Higher means                                               Lower means
+		Higher Performance                                          Higher Latency
+		 Endurance per Bit                                        Higher Persistence
+		   Higher Speeds
+	```
+## __Common Goals and Interdependence__
+* The overarching goal of both computer organization and architecture is to design an __efficient, cost-effective, and powerful computer system__.
+* An equally well-organized set of hardware must support the design of a computer's architecture to ensure the system functions as intended.
+> In a modern CPU, the pipeline architecture (an architectural feature that allows multiple instructions to be processed simultaneously) must be supported by an organized system of data paths and control signals. This ensures instructions are fetched, decoded, and executed orderly and efficiently, maximizing the CPU’s performance. 
+## __Contrast Between Computer Organization and Computer Architecture__
   1. __Computer Organization__:
     * Focuses on the __physical structure and operation__ of the computer's hardware components.
     * Deals with implementation details like __circuit design, timing, and control signals__.
@@ -382,4 +377,4 @@ Higher Performance                                          Higher Latency
 - Conclusion
   * Computer organization and computer architecture are __closely related but distinct areas__ within the realm of computer science. Computer organization deals with the __physical and practical aspects of hardware design__, while computer architecture __deals with the logical and conceptual framework__ of a computer system. Together, they ensure that computers are not only __efficient and reliable but also capable of executing a wide range of tasks__, making them indispensable in the world of technology.
 
-# > [Topic 3 & 4](lesson3-4.md)
+# > [Lesson 3 & 4](Lesson%203-4.md)

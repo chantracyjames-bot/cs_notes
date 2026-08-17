@@ -1,5 +1,7 @@
-# [Table of Contents](main.md)
-# Topic 3 & 4
+### [Table of Contents](main.md)
+# CSP103
+---
+## Target
 - Learning Outcomes
   * Identify the main components of a computer system, including the Central Processing Unit (CPU), memory (RAM), input/output devices, storage devices, and buses.
   * Explain, describe, or identify the function of the computer components in the overall operation of a computer system. 
@@ -18,7 +20,7 @@
     + 4.3. Strengths of Standard Organizations
     + 4.4.Weaknesses and Challenges
 
-## Introduction to Computer Components
+## __Introduction to Computer Components__
 - Background
   + The foundational components of a computer are essential for understanding its operations and functionalities. This lecture will intoduces key elements that make up a computer system; the Central Processing Unit (CPU), Memory (RAM), Input and Output Devices, Storage Devices, and Buses (Data Pathways).
   + Each componnet is crucial to the computer's ability to process data, store information, and interact with users. 
@@ -26,7 +28,7 @@
 - Diagram
   ![[CC104-0.png]]
 
-### Central Processing Unit (CPU)
+### __- Central Processing Unit (CPU)__
 - Definition:
   * The _CPU_ is often called the "__brain__" of the computer, as it is __responsible for executing instructions, performing calculations, and managing data__ flow within the system.
   * It is a _complex microprocessor_ composed of __millions of transistors__, and it plays a __central role in the functioning__ of the computer.
@@ -52,7 +54,7 @@
 - Diagram:
 	 ![[CSP103-4.png]]
 
-### Memory
+### __- Memory__
 - Definition:
   * __Random Access Memory__ (_RAM_) is the computer's __short-term memory__, used to __store data actively being processed__ by the CPU.
   * _RAM_ is __volatile__, meaning it loses all stored data when the power is turned off.
@@ -66,7 +68,7 @@
   * __Static Random Access Memory__ (_SRAM_)
     + __Faster and more expensive__ than _DRAM_, used for __cache memory, providing high-speed CPU data access__.
   
-### Input & Output Devices
+### __- Input & Output Devices__
 - Definition
   * __Input and Output (_I/O_) Devices__ are the __peripherals that allow users to interact__ with the computer, enabling __data input and output__, __to and from the system__.
 - __Input Devices__
@@ -85,7 +87,7 @@
 - Diagram:
 
 	![[CSP103-5.jpg]]
-### Storage Devices
+### __- Storage Devices__
 - Definition:
   * Are responsible for __holding data permanently or semi-permanently__, ensuring tha information can be __retained even when the computer is powered off__.
   * _Storage devices_ __vary in speed, capacity, and technology__.
@@ -109,7 +111,7 @@
 - Diagram:
 	 ![[CSP103-6.png]]
 
-### Buses (Data Pathways)
+### __- Buses (Data Pathways)__
 - Definition
   * Are __communication pathways__ that __connect computer components__, allowing them to __communicate and transfer data efficiently__.
 - Types of Buses:
