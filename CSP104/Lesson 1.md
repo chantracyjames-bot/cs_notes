@@ -1,12 +1,10 @@
-# > [Table of Contents](main.md)
-# Lesson 1
+### > [Table of Contents](main.md)
+# CSP104
+---
 <!-- AI generated powerpoint presentation? -->
-## Course Orientation
-
 ## Course Background
 - aimed at creating an information using MySQL, connected to Information Management.
 - it is recommended to split classes into multiple files, prevents any modifications from affecting major parts of the codebase.
-
 ### Learning Targets
 - __Orientation__
   * Summarize the course contents, requirements, and learning expectations.
@@ -18,7 +16,6 @@
   * Discuss inheritence and polymorphism as toold for flexible software design.
 - __Prepare to code__
   * Connect concepts to any OOP-capable language used in laboratory work.
-
 ### Course Introduction: What is this course all about?
 - CSP104 uses object oriented programming to solve computing problems through organized, reusable, and maintainable programs.
 - Object-oriented programming is a way of _designing_ __objects__ that contain both __data__ and __behavior__.
@@ -31,7 +28,6 @@
 ```
     // this is a comment in C-style languages.
 ```
-
 ### Topic Roadmap
 - A smooth slow from course orientation to the main OOP principles.
 ```
@@ -43,7 +39,6 @@
 ```
 - Core Question: How do we design programs that behave like organized code systems instead of long lists of instructions?
 > The main point of OOP is to modularize codebases, preventing them from getting too long and making debugging difficult due to the thousands of lines of code. OOP solves this by having other parts of code (or classes) be in separate files instead of one long file.
-
 ### Why Programming Paradigms Matter
 - A paradigm is a way of thinking about how a program should be organized.
 ```
@@ -52,7 +47,6 @@ Problem -> Design -> Code -> Maintain -> Improve
 - _Procedural Programming_ focuses on __steps and procedures__, mostly flows in one direction.
 - _Object-Oriented Programming_ focuses on __objects and interactions__.
 > Both can solve problems, but the are implemented in varying different ways and they organize solutions differently from one another.
-
 ## Procedural Programming
 - Programs are structured as a __sequence of precedures__ of _functions_ that operate on data.
 ```
@@ -70,7 +64,6 @@ END
   * Data and procedures are often separate
   * Good for small, direct, and linear tasks
   * Can become harder to maintain as systems grow
-
 ### Procedural Thinking
 > Do This, Then That.
 - A procedure-centered program follows a clear instruction flow.
@@ -86,7 +79,6 @@ END
   * Related data and operations may become scattered across many functions.
   * Data and functions may become separated.
   * Large systems can become harder to update, reuse, or debug.
-
 ## Object-Oriented Programming
 - Programs are modeled as _objects_ that __combine__ both __data__ (_attributes_) and __behavior__ (_methods_).
 ```
@@ -96,7 +88,6 @@ Object = Data + Behavior
 - __Behavior__ describes __what the object can do__.
 - __Objects__ communicate by calling _methods_ or sending messages.
 - The program becomes a _collection_ of __cooperating parts__.
-
 ### Procedural vs Object-Oriented Programming
 > Same problem, different organization and implementation.
 - Procedural
@@ -110,7 +101,6 @@ Object = Data + Behavior
   * Objects interact with each other
   * Best for modular systems
 > OOP helps manage complexity by grouping related data and actions in objects.
-
 ### Objects: The Basic Building Blocks
 > An object represents a meaningful thing in the problem domain.
 ```
@@ -123,14 +113,12 @@ Student -> Teacher -> Course -> Grade -> Report
   * It stores data or attributes, such as name, grade, or balance.
 - Object has behavior
   * It performs actions through methods, such as compute, display, or update.
-
 ### Classes: Blueprints for Objects
 - A class defines the structure and behavior that its objects will have
 ```
 Class = blueprint
 Object = actual instance
 ```
-
 ### Inisde a Class: Attributes and methods
 > A class groups related data and actions, or attributes and methods, respectively.
 - Attributes
@@ -154,7 +142,6 @@ CLASS Student
     displayInfo()
 End CLASS
 ```
-
 ### Encapsulation: Keeping Data and Behavior Together
 > Exncapsulation protects an object's internal data and controls how it is accessed.
 - Controlled access
@@ -168,7 +155,6 @@ deposit()
 withdraw()
 shorBalance()
 ```
-
 ### Encapsulation in Practice
 > Users of a class should know what it can do, not every internal detail of how it works.
 - Hides internal deatils that do not need to ne exposed.
@@ -184,7 +170,6 @@ account.showBalance()
 // Avoid direct access
 acount.balance = -999 // unsafe
 ```
-
 ### Inheritance: Reusing and Entending Behavior
 > A new class can be based on an existing to reuse common features.
 - Reduces repitition and promotes software reuse.
@@ -196,7 +181,6 @@ acount.balance = -999 // unsafe
   * Inherits common features and adds its own.
 ### Inheritance and Polymorphism
 > Common structure can lead to different specialized behaviors
-
 ## Polymorphism
 > Objects can share the same method name but perform it differently depending on their class.
 ```
@@ -211,7 +195,6 @@ CLASS Circle EXTENDS Shape
 CLASS Rectangle EXTENDS Shape
   method draw() -> draw a rectangle
 ```
-
 ### How the OOP Principles Work Together
 > The principles are connected, not isolated definitions
 ```
@@ -229,6 +212,7 @@ CLASS Rectangle EXTENDS Shape
 ```
 ## Language-Neutral OOP Thinking
 > Syntax differsm but concepts tranfer across OOP languages.
+
 | Concept | General Meaning | May appear as... |
 |---|---|---|
 | Class | Blueprint for objects | class, Class, module/class file |
@@ -237,7 +221,6 @@ CLASS Rectangle EXTENDS Shape
 | Encapsulation | Controlled access to data | private/public, properties, getters/setters |
 | Inheritance | Reuse from parent class | extends, inherits, derived class |
 | Polymorphism | Same call, different behavior | overriding, virtual methods, interfaces |
-
 ## Topic 1 Summary
 > Core ideas to remember before moving to methods, classes, and objects in code.
 - Procedural programming organizes solution as steps and procedures.
