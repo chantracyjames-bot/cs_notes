@@ -1,3 +1,4 @@
+# > [Table of Contents](main)
 # Week 1
 ## Information Managememt
 - follows the IPO principle, _Input_, _Process_, and _Output_.
@@ -18,3 +19,5 @@
 <!--
 learn more about databased like MySQL
 -->
+
+# > [Week 2](week2)
