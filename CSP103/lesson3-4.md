@@ -1,3 +1,4 @@
+# [Table of Contents](main)
 # Topic 3 & 4
 - Learning Outcomes
   * Identify the main components of a computer system, including the Central Processing Unit (CPU), memory (RAM), input/output devices, storage devices, and buses.
@@ -23,7 +24,7 @@
   + Each componnet is crucial to the computer's ability to process data, store information, and interact with users. 
   + By understanding these components, certain insight will be gained into how computers perform tasks, manage resources, and support various applications.
 - Diagram
-  ![Components of computer](../../html-css/image_sets/CSP103-3.png)
+  ![[CC104-0.png]]
 
 ### Central Processing Unit (CPU)
 - Definition:
@@ -49,7 +50,7 @@
     + Example:
       - When calculating, the CPU may store intermediate results in registers to speed up the process and reduce the need to access slower memory location
 - Diagram:
-  ![Block Diagram of First Generation Microprocessors](../../html-css/image_sets/CSP103-4.png)
+	 ![[CSP103-4.png]]
 
 ### Memory
 - Definition:
@@ -82,9 +83,8 @@
   * Example:
     + After typing a document, a printer might be used. The _CPU_ sends the processed data to the printer, procuding a physical document copy.
 - Diagram:
- ![Input and Ouput Devices Diagram](../../html-css/image_sets/CSP103-5.jpg)
-<!-- i hate light mode huhuhu -->
 
+	![[CSP103-5.jpg]]
 ### Storage Devices
 - Definition:
   * Are responsible for __holding data permanently or semi-permanently__, ensuring tha information can be __retained even when the computer is powered off__.
@@ -107,7 +107,7 @@
     + They are __small, durable__, and __do not require external power sources__.
     > You might use a flash drive to carry important documents or presentations that you need to access on different computers.
 - Diagram:
- ![SSDs vs HDDs](../../html-css/image_sets/CSP103-6.png)
+	 ![[CSP103-6.png]]
 
 ### Buses (Data Pathways)
 - Definition
@@ -126,7 +126,7 @@
     + This signals __coordinate activities__ like reading from memory, writing to memory, and responding to input devices.
     > During a memory read operation, the control bus sends signals that trigger the memory to place the requested data onto the data bus for the CPU to read.
 - Diagram:
- ![Data Pathways](../../html-css/image_sets/CSP103-7.png)
+	![[CSP103-7.png]]
 
 ## Introduction to Standard Organizations
 

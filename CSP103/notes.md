@@ -1,3 +1,4 @@
+# > [Table of Contents](main)
 # Notes
 ## What is Computer?
 - an __electronic device that can process and store information__
