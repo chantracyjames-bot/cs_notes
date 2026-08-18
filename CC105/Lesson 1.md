@@ -1,4 +1,4 @@
-# > [Table of Contents](main.md)
+### > [Table of Contents](main.md)
 # CC105
 ---
 ### Information Managememt
@@ -16,10 +16,6 @@
   * _Wisdom_
     + it is how the information is applied.
     + available to the decision makers, or available to be utilized for actions.
-
-<!--
-learn more about databased like MySQL
--->
 - Resources
   * TOPCIT
     + An IT assessment tool used to assess the skills and competencies of information technology specialists and software developers, focusing on the abilities required to perform effectively in professional roles.
@@ -29,15 +25,14 @@ learn more about databased like MySQL
 ## Databases
 - Focus: __Data__
 - Main Figure:
-```
-INPUT -> PROCESS -> OUTPUT
-```
+		```
+		INPUT -> PROCESS -> OUTPUT
+		```
 - Example:
-```
-Encoding -> Programmers -> Information
-```
-> Example: Self serving printng kiosk; requiring an input file, the processing of said file, and the output (e.g. costs).
-
+		```
+		Encoding -> Programmers -> Information
+		```
+> Self serving printng kiosk; requiring an input file, the processing of said file, and the output (e.g. costs).
 ### Evolution of Databases:
 - File Cabinets - Before 1950s
   * Bugs came from physical bugs.
@@ -63,7 +58,6 @@ Encoding -> Programmers -> Information
   * NoSQL
     + A non-SQL or non-relational database wherein it provides mechanisms for storing and retrieving data that does not rely on traditional table-based relational models.
     * Instead, it uses flecible data models like key-value pairs, documents, column families, or graphs, making it ideal for handling unstructured, semi-structured, and structured data.
-<!-- Fundatmental Systems Design: ig research more about it? the professor said something about using TOPCIT -->
 ## Information Systems
 - Foundation
   * _Fact_ -> __Phenomenon__
@@ -85,7 +79,7 @@ Encoding -> Programmers -> Information
   * _Databases_ 
     + Are an __organized collection__ of logically related data stored for easy access and retrieval.
 - Types of Data Processing
-> Different types of databases store data differently,
+> Different types of databases store data differently.
 - Batch Processing.
   * Collects batch amounts of data during a certain period and only processed periodically.
   * Characteristics: System-Centered process
@@ -114,12 +108,11 @@ Encoding -> Programmers -> Information
     * A single client is all it takes for a server to form.
   * Client
     + A user that utilize the capabilities of a server, or a "customer" of a server.
-
+# > [Lesson 2](CC105/Lesson%201.md)
 <!-- Review TOPCIT, focusing on the technical aspects of creating databases. Finals; create a pretty decent database, manually creating the database design. -->
 <!-- Project
   * create a text file database
   * CRUD
   * maximum of 5 columns / date inputs (entries)
 -->
-
-# > [Lesson 1](CC105/Lesson%201.md)
+<!-- Fundatmental Systems Design: ig research more about it? the professor said something about using TOPCIT -->
