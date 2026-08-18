@@ -1,5 +1,6 @@
+## > [README.md](README.md)
+[NOTE] __In Github, some formattings are broken. For the best experience, use Obsidian's own flavor of Markdown.__
 # Table of Contents
-### > [README.md](README.md)
 ## Cloud Computing (CSE1-A)
 ### > [Lesson 1](CSE1-A/Lesson%201.md)
 ## Fundamentals of Programming (CC102)
@@ -12,9 +13,8 @@
 ### > [Lesson 2](CC104/Lesson%202.md)
 
 ## Information Managements (CC105)
-### > [Week 1](CC105/week1.md)
-### > [Week 2](CC105/week2.md)
-### > [Week 4](CC105/week4.md)
+### > [Lesson 1](CC105/Lesson%201.md)
+### > [Lesson 2](CC105/Lesson%202.md)
 ## Architecture and Organization (CSP103)
 ### > [notes](CSP103/notes.md)
 ### > [Lesson 1-2](Lesson%201-2.md)
