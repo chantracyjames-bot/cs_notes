@@ -1,5 +1,5 @@
 ## > [README.md](README.md)
-[NOTE] __In Github, some formattings are broken. For the best experience, use Obsidian's own flavor of Markdown.__
+[NOTE] __In Github, some formattings are broken. Formats such as image links (used in figures in diagrams) will not appear. For the best experience, use Obsidian's own flavor of Markdown.__
 # Table of Contents
 ## Cloud Computing (CSE1-A)
 ### > [Lesson 1](CSE1-A/Lesson%201.md)
@@ -23,3 +23,5 @@
 ### > [Lesson 3](CSP103/Lesson%203.md)
 ## Object-Oriented Programming (CSP104)
 ### > [Lesson 1](CSP104/Lesson%201.md)
+---
+## Minor Subjects > [here](Others/Other%20Subjects/sub-main.md)
