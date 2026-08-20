@@ -15,26 +15,16 @@
     + Insteaf of buying and maintaining physical servers on-premises, you access computing resources over the internet and pay only for what you use — on demand, like a utility bill.
   * On-premises vs Cloud
 
-| On-Premises | Cloud |
-|---|---|
-| You own & maintain the hardware | Provider owns & maintains it
-| Large upfront capital cost | Pay-as-you-go operating cost
-| Fixed-capacity — hard to scale fast | Scales up or down on demand
-| You handle updates & security patches | Provider handles the insfrastructure layer
+	| On-Premises                           | Cloud                                      |
+	| ------------------------------------- | ------------------------------------------ |
+	| You own & maintain the hardware       | Provider owns & maintains it               |
+	| Large upfront capital cost            | Pay-as-you-go operating cost               |
+	| Fixed-capacity — hard to scale fast   | Scales up or down on demand                |
+	| You handle updates & security patches | Provider handles the insfrastructure layer |
 - One shared pool, accessed by everyone
   * Cloud service models are built on sharing on-demand computing resources over the internet. Companies and individuals pay to access a virtual pool of compute, storage, and networking that lives on remote servers owned and managed by a provides — not by them (individuals or companies).
-	```
-    Resources Provided                                    Who Accesses It
-    |-----------------|                                 |-----------------|
-    |     Compute     |--\                           /--|    Company A    |
-    |-----------------|   \                         /   |-----------------|
-    |     Storage     |----\ |———————————————————| /----|    Company B    |
-    |-----------------|    |-| Shared Cloud Pool |-|    |-----------------|
-    |   Networking    |----/ |———————————————————| \----| Individual User |
-    |-----------------|   /                         \   |-----------------|
-    |    Databases    |--/                           \--|     Startup     |
-    |-----------------|                                 |-----------------|
-	```
+	- Diagram:
+		![[CSE1-A-0.png]]
 ## Cloud Deplyment Types
 - Five deployment models, one decision: who owns the infrastructure?
   * Overview:
@@ -66,11 +56,11 @@
 		* Analyzes listening data in real time to personalize playlists and manage its full music catalog.
 + Pros and Cons
 
-| Pros | Cons |
-|---|---|
-| High scalable on demand | Less direct control over infrastructure |
-| Cost-efficient — no hardware to buy | Data sites alongside other tenant' data |
-| Zero infrastructure maintenance | Security concers for sensitive workloads |
+	| Pros                                | Cons                                     |
+	| ----------------------------------- | ---------------------------------------- |
+	| High scalable on demand             | Less direct control over infrastructure  |
+	| Cost-efficient — no hardware to buy | Data sites alongside other tenant' data  |
+	| Zero infrastructure maintenance     | Security concers for sensitive workloads |
 ### - Private Cloud
 > Dedicated infrastructure, single operation.
 + Definition:
@@ -84,13 +74,13 @@
 	* Provider: In-house or self-hosted
 	* Banks, government agencies, and hospitals — organizations where regulation or sensitivity rules out shared infrastructure.
 * Pros and Cons
-
-| Pros                                        | Cons                                 |
-| ------------------------------------------- | ------------------------------------ |
-| High security and data control              | Expensive to buld and run            |
-| Fully customizatble to organizational needs | Requires dedicated maintenance staff |
-| Easier regulatory compliance                | Harder to scale than public cloud    |
-|                                             |                                      |
+	
+	| Pros                                        | Cons                                 |
+	| ------------------------------------------- | ------------------------------------ |
+	| High security and data control              | Expensive to buld and run            |
+	| Fully customizatble to organizational needs | Requires dedicated maintenance staff |
+	| Easier regulatory compliance                | Harder to scale than public cloud    |
+	|                                             |                                      |
 ### - Hybrid Cloud
 > Public + private, working together.
 + Definition:
@@ -103,11 +93,11 @@
 	* Started fully on AWS, then shifted to hybrid — private infrastructure for data storage, AWS for large-scale compute — for cost savings and flexibility.
 + Pros and Cons
 
-| Pros | Cons |
-|---|---|
-| Flexible — best of both models | Complex to configure and manage |
-| Cost-effective for mixed workloads | Requires integration between environments |
-| Scales for peak demand without public exposure | |
+	| Pros | Cons |
+	|---|---|
+	| Flexible — best of both models | Complex to configure and manage |
+	| Cost-effective for mixed workloads | Requires integration between environments |
+	| Scales for peak demand without public exposure | |
 ### - Community Cloud
 > Shared by organizations with a common mission.
 + Definition:
@@ -120,11 +110,11 @@
 	* European universities and government-funded reseach labs build a shared cloud to support scientific research and data collaboration — governed jointly, not owned by one institution.
 + Pros and Cons
 
-| Pros | Cons |
-|---|---|
-| Shared cost across all members | Governance can be slow with many stakeholders |
-| Tailored to a specific sector's compliace needs | Still more expensive than public cloud | 
-| More collaborative than a single private cloud | Limited to members of the community |
+	| Pros | Cons |
+	|---|---|
+	| Shared cost across all members | Governance can be slow with many stakeholders |
+	| Tailored to a specific sector's compliace needs | Still more expensive than public cloud | 
+	| More collaborative than a single private cloud | Limited to members of the community |
 ### - Multicloud
 > Multiple providers, best tool for each job.
 + Definition:
@@ -136,11 +126,11 @@
   - Runs several banking systems and portals across several providers, letting teams modernize and unlock data across an optimized, multi-vendor cloud ecosystems.
 + Pros and Cons
 
-| Pros                                              | Cons                                      |
-| ------------------------------------------------- | ----------------------------------------- |
-| Avoids vendor lock-in                             | Most complex model to manage              |
-| Leverages each provider's strengths               | Requires skills across multiple platforms |
-| Improves resilience if one provider has an outage |                                           |
+	| Pros                                              | Cons                                      |
+	| ------------------------------------------------- | ----------------------------------------- |
+	| Avoids vendor lock-in                             | Most complex model to manage              |
+	| Leverages each provider's strengths               | Requires skills across multiple platforms |
+	| Improves resilience if one provider has an outage |                                           |
 ### Side by side: choosing the right model
 | Type | Owned by | Best for | Example |
 | --- | --- | --- | --- |
@@ -161,3 +151,5 @@
     + Capacity can scale up or down quickly — often automatically — to match real-time demand.
   5. Measure Service
     + Usage is metered automatically, so systems optimize systems and users pay only for what they actually use.
+
+# > [Lesson 2](CSE1-A/Lesson%202.md)
