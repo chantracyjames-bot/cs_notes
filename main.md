@@ -3,6 +3,7 @@
 # Table of Contents
 ## Cloud Computing (CSE1-A)
 ### > [Lesson 1](CSE1-A/Lesson%201.md)
+### > [Lesson 2](CSE1-A/Lesson%202.md)
 ## Fundamentals of Programming (CC102)
 ### > [Lesson 1](CC102/Lesson%201.md)
 ### > [Lesson 2](CC102/Lesson%202.md)
