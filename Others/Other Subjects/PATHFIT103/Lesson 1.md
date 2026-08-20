@@ -1,0 +1,82 @@
+### > [Table of Contents](sub-main.md)
+# Midterms
+## Basketball and Volleyball.
+- Sidenote:
+  - After the Intramurals, there will be no discussions.
+  - There will only be Practicums.
+## Basketball
+- One of the most popular sports globally, Football being the most popular.
+### Basic History
+  - 1892 (1891)
+    - Originally started with 9 players and 13 rules for the game.
+      - With the first "rim" being a basket on a balcony.
+    - If the players shot the ball and it didn't fall, or it stayed in the "basket" (literall), it was considered a point.
+    - The players had to retrieve the ball by using a a ladder to climb to the basket.
+      - Many years later, they used a pulley to make retrieving the ball easier. Until they finally cut a hole in the basket.
+  - 1906
+    - The peach baskets were replaced with metal hoops on a backboard
+  - 1932
+    - FIBA, Fédération Internationale de Basketball, was founded and formulated all the international rules for playing basketball.
+  - 1936
+    - Basketball became an official or regular even for the Summer Olympic Games, first demonstrated on Berlin, Germany.
+  - 1946
+    - The first professional basketball league in the USA started the use of salaries, being the Basketball Association of America (BAA).
+  - 1949
+    - The BAA merged with the National Basketball League (NBL) and formed the NBA, the National Basketball Association.
+  - 1975, April 9
+    - The first professional basketball league in Asia was founded, the Philippine Basketball Association (PBA).
+### Faciliies and Equipment
+  - Facilities
+    - The venue, or the equipments that cannot be lifted.
+  - Equipments
+    - Are things or objects that can be lifted.
+  - Measurements
+    - Basketball Court
+      - 28 meters long by 15 meters wide.
+    - Backboard
+      - 1.8 meters long by 1.05 meters wide.
+    - Rim
+      - Metal Hoops that are 45 centimeters in diameter.
+      - The rim to floor distance is 3.05 meters or 10 feet.
+    - Rim Net
+      - Suspended 40 to 45 centimeters from the center of the rim, or the height or smth.
+    - Basketball
+      - Has 3 sizes according to the division:
+        - Men's Basketball - size 7 (idk what)
+        - Women's Basketball - size 6
+        - Children's Basketball - size 5. From elementary to junior high school.
+### Basic Skills
+  - Dribbling
+    - How to dribble and bounce the ball. Note that only ONE hand is required to bounce the ball.
+      - Using two hands simultaneously will result into a Double Dribble Foul.
+    - it is NOT ALLOWED to hold the ball and run, moving around requires dribbling the ball.
+  - Passing
+    - How to pass the ball to other teammates. Throwing it accurately.
+    - Chest pass, Bounce pass, Overhead pass, and Baseball pass.
+  - Shooting
+    - Attempting to score a point by putting (by throwing) the ball into the rim.
+    - Set shot, Jump shot, Freethrow shot, and Lay-up shot by scoring near the basket.
+  - Rebounding
+    - Recovering the ball after a missed shot.
+    - Either a Defensive rebound, or an Offensive rebound.
+  - Defense
+    - "The best offense is the best defense."
+  - Footwork
+    - Proper movement while maintaining balance, avoiding violations like travelling.
+### Basic Rules
+  - Two teams with 5 players each are allowed on the court.
+    - FIBA rules, with a maximum of 12 players per team, the bench players are substitutes.
+    - If there are no 5 players per team, no game will start.
+  - There are 40 minutes in a regular game, divided into 10 minutes per quarter.
+    - 5 more minutes are added during extra period, also known as overtime.
+  - Timeouts are calculated per half of the game. not by quarter.
+    - The first half, the first and second quarter, only 2 timeouts are shared in-between.
+    - The second half, the third and fourth quarter, only 3 timeouts are shared in-between.
+      - If the three timeouts are NOT used in until the last three minutes of the last quarter, a single timeout is deducted.
+      - i.e. only two timeouts are allowed during the last two minutes of the fourth quarter, if the three hasn's been used.
+    - During overtime, 1 timeouts are allowed.
+    - Note that timeouts are only available in the halves they are in. It is NOT POSSIBLE to stack up on timeouts.
+      - They are reset every half.
+  - 24 second shot clock.
+    - Only 24 seconds is the time allowed to shoot the ball. Taking too long will lead to a 24 Second Shot Clock Violation.
+  - 3 Second Violation, 5 Second Violation, and 8 Second Violation; Will be demonstrated by sir during our Practicum.
