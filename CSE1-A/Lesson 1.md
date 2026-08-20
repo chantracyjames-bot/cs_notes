@@ -152,4 +152,4 @@
   5. Measure Service
     + Usage is metered automatically, so systems optimize systems and users pay only for what they actually use.
 
-# > [Lesson 2](CSE1-A/Lesson%202.md)
+# > [Lesson 2](/CSE1-A/Lesson%202.md)
