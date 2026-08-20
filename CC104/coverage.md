@@ -1,4 +1,6 @@
-# > [Table of Contents](main.md)
+### > [Table of Contents](../main.md)
+# CC104
+---
 ## Lessons
 - _Data Structures and Algorithms_
   * _1st Semester_ / __Midterm__

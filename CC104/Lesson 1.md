@@ -1,4 +1,4 @@
-### > [Table of Contents](main.md)
+### > [Table of Contents](../main.md)
 # CC104
 ---
 ## Problem Solving Process (PSP)

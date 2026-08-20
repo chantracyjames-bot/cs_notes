@@ -1,4 +1,4 @@
-### > [Table of Contents](main.md)
+### > [Table of Contents](../main.md)
 # CSE1-A
 ---
 ## Background

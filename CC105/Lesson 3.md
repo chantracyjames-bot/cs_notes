@@ -1,4 +1,4 @@
-### > [Table of Contents](main.md)
+### > [Table of Contents](../main.md)
 # CC105
 ---
 ## Entity-Relationship Model Constructs

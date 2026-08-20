@@ -1,5 +1,6 @@
-# > [Table of Contents](main.md)
-# Notes
+### > [Table of Contents](../main.md)
+# CSP103 - Notes
+---
 ## What is Computer?
 - an __electronic device that can process and store information__
 - __performs calculations, manipulate data, execute instructions__ to accomplish specific tasks
