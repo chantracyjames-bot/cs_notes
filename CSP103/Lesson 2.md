@@ -127,4 +127,4 @@
 - Diagram:
 	![[CSP103-7.png]]
 
-# > [Lesson 3](Lesson%203.md)
+# > [Lesson 3](CSP103/Lesson%203.md)
