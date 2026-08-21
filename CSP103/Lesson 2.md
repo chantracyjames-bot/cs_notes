@@ -5,20 +5,13 @@
 - Learning Outcomes
   * Identify the main components of a computer system, including the Central Processing Unit (CPU), memory (RAM), input/output devices, storage devices, and buses.
   * Explain, describe, or identify the function of the computer components in the overall operation of a computer system. 
-  * Explain the importance of standards in computing and their role in ensuring interoperability, consistency, and innovation.
-  *  Identify key computer organization standards and describe their impact on the development and compatibility of computer systems.
 - Topics
   3. Introduction to Computer Components
-    + 3.1.Central Processing Unit (CPU)
-    + 3.2.Memory (RAM)
-    + 3.3.Input and Output Devices
+    + 3.1. Central Processing Unit (CPU)
+    + 3.2. Memory (RAM)
+    + 3.3. Input and Output Devices
     + 3.4. Storage Devices
-    + 3.5.Buses (Data Pathways)
-  4. Introduction to Standard Organizations
-    + 4.1.Importance of Standards in Computing
-    + 4.2.Computer Organization Standards
-    + 4.3. Strengths of Standard Organizations
-    + 4.4.Weaknesses and Challenges
+    + 3.5. Buses (Data Pathways)
 ## __Introduction to Computer Components__
 - Background
   + The foundational components of a computer are essential for understanding its operations and functionalities. This lecture will intoduces key elements that make up a computer system; the Central Processing Unit (CPU), Memory (RAM), Input and Output Devices, Storage Devices, and Buses (Data Pathways).
@@ -34,7 +27,7 @@
   1. __Arithmetic Logic Unit__ (_ALU_)
     + Definition: 
       - The _ALU_ is the _CPU_ component that __performs all arithmetic operations__—_Addition, Subtraction, Multiplication, and Division_—and logical operations, such as comparisons like _significant than, less than or equal to_.
-      - It is crucial for __processing numerical data__ and __making decisions baed on logic__.
+      - It is crucial for __processing numerical data__ and __making decisions based on logic__.
     + Example:
       - When a program requires calculation, such as adding two numbers, the ALU performs the operation and stores the result in a register or memory location for future use.
   2. __Control Uunit__ (CU)
@@ -46,7 +39,7 @@
   3. __Registers__
     + Definition:
       - _Registers_ are __small, fast storage locations__ within the _CPU_ that __temporarily hold data and instructions__ that are being processed.
-      - It plays a vital role in the _CPU_'s ability to __quickly access__ and __manipulate data__, aloowing for efficient execution of instructions.
+      - It plays a vital role in the _CPU_'s ability to __quickly access__ and __manipulate data__, allowing for efficient execution of instructions.
     + Example:
       - When calculating, the CPU may store intermediate results in registers to speed up the process and reduce the need to access slower memory location
 - Diagram:
@@ -77,7 +70,7 @@
     + When typing a document, each keystroke on the keyboard is converted into digital signals that the _CPU_ can process, displaying the corresponding character on the screen.
 - __Output Devices__
   * Definition
-    + __Converts processed data from the computer into a from that users can understand or interact with__.
+    + __Converts processed data from the computer into a form that users can understand or interact with__.
     * Typical output devices include __monitors__ for visual display, __printers__ for physical copies of documents, and __speakers__ for audio output.
   * Example:
     + After typing a document, a printer might be used. The _CPU_ sends the processed data to the printer, procuding a physical document copy.
@@ -99,7 +92,7 @@
     > An SSD often stores the operating system and frequently accessed applications, significantly speeding up boot and program loading times.
   * __Optical Drives__ (_CDs_, _DVDs_, _Blu-rays_)
     + Uses __lasers__ to read and write data on __disks__, such as _Compact Disks, Digital Video Disks_, and _Blu-rays_.
-    + Altough __less common__ today due to digital distribution, there are still __used for installing software, playing media, and archiving data__.
+    + Although __less common__ today due to digital distribution, they are still __used for installing software, playing media, and archiving data__.
     > When you install a program from a DVD, the optical drive reads the data from the disc and transfers it to your computer’s storage. 
   * __Flash Devices__
     + Are __portable storage devices__ that use __flash memory__, making them ideal for __transferring files between computers__.

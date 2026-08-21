@@ -52,8 +52,8 @@
     + 1.4. Common Goals and Interdependence
     + 1.5. Contrast Between Computer Organization 
   2. Computer Organization (CO) VS Computer Architecture (CA)
-    + 2.1.Definition and significance.
-    + 2.2.Distinction between computer organization and computer architecture.
+    + 2.1. Definition and significance.
+    + 2.2. Distinction between computer organization and computer architecture.
 ## __What is a Computer?__
 - Definition
   * A computer is an _electronic device_ that can __process and store information__.

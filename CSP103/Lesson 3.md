@@ -1,6 +1,16 @@
 ### > [Table of Contents](../main.md)
 # CSP103
 ---
+## Target
+- Learning Outcomes
+	* Explain the importance of standards in computing and their role in ensuring interoperability, consistency, and innovation.
+	- Identify key computer organization standards and describe their impact on the development and compatibility of computer systems.
+- Topics
+	4. Introduction to Standard Organizations
+	    + 4.1. Importance of Standards in Computing
+	    + 4.2. Computer Organization Standards
+	    + 4.3. Strengths of Standard Organizations
+	    + 4.4. Weaknesses and Challenges
 ## __Introduction to Standard Organizations__
 - Background:
 	- Standard organizations in computing play a pivotal role in ensuring that technologies across different platforms can communicate, integrate, and evolve cohesively.
@@ -55,7 +65,7 @@
 			- Double Data Rate (DDR) standards govern how RAM modules communicate with the CPU.
 			- Current standards include DDR4 and DDR5, which differ in data transfer rates and power consumption.
 		- Diagram:
-			- ![[CSP103-8.png]]
+			![[CSP103-8.png]]
 	- Display Standards
 		- Definition:
 			- Governs how computers transmit visual data to monitors and other output devices.
