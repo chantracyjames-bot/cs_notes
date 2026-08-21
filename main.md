@@ -22,6 +22,7 @@
 ### > [Lesson 1](CSP103/Lesson%201.md)
 ### > [Lesson 2](CSP103/Lesson%202.md)
 ### > [Lesson 3](CSP103/Lesson%203.md)
+### > [Lesson 4](CSP103/Lesson%204.md)
 ## Object-Oriented Programming (CSP104)
 ### > [Lesson 1](CSP104/Lesson%201.md)
 ---
