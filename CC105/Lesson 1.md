@@ -108,7 +108,7 @@
     * A single client is all it takes for a server to form.
   * Client
     + A user that utilize the capabilities of a server, or a "customer" of a server.
-# > [Lesson 2](CC105/Lesson%201.md)
+# > [Lesson 2](/CC105/Lesson%202.md)
 <!-- Review TOPCIT, focusing on the technical aspects of creating databases. Finals; create a pretty decent database, manually creating the database design. -->
 <!-- Project
   * create a text file database

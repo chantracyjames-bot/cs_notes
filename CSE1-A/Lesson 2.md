@@ -69,4 +69,4 @@
 	> [What is Cloud Computing Architecture and its Components?](https://www.infosectrain.com/blog/what-is-cloud-computing-architecture-and-its-components/)
 	> [Cloud Computing Architecture](https://www.simplilearn.com/tutorials/cloud-computing-tutorial/cloud-computing-architecture#cloud_computing_architecture)
 	
-# > [Lesson 3](CSE1-A/Lesson%203.md)
+# > [Lesson 3](/CSE1-A/Lesson%203.md)

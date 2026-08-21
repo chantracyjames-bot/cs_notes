@@ -377,4 +377,4 @@
 - Conclusion
   * Computer organization and computer architecture are __closely related but distinct areas__ within the realm of computer science. Computer organization deals with the __physical and practical aspects of hardware design__, while computer architecture __deals with the logical and conceptual framework__ of a computer system. Together, they ensure that computers are not only __efficient and reliable but also capable of executing a wide range of tasks__, making them indispensable in the world of technology.
 
-# > [Lesson 2](CSP103/Lesson%202.md)
+# > [Lesson 2](/CSP103/Lesson%202.md)

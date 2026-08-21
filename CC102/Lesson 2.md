@@ -204,4 +204,5 @@
             flowchart LR
             A{{Hexagon}}
         ```
-      
+
+# > [Lesson 3](/CC102/Lesson%203.md)

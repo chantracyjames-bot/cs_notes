@@ -117,4 +117,4 @@
 			- Example:
 				- Flight-ID — consisting of the Flight-Number and Date.
 
-# # > [Lesson 3](CC105/Lesson%203.md)
+# # > [Lesson 3](/CC105/Lesson%203.md)

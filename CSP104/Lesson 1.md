@@ -228,3 +228,5 @@ CLASS Rectangle EXTENDS Shape
 - A class is a blueprint; an object is an instance of that blueprint.
 - Encapsulation keeps data safe by controlling access through methods.
 - Inheritance supports reuse; polymorphism supports flexible beheavior.
+
+# > [Lesson 2](/CSP104/Lesson%202.md)

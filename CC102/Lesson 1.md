@@ -39,4 +39,4 @@
       - Its a permanent record of data of on a disk. 
       - Stores instructions between sessions, e.g. a file stores data or instruction in secondary memory.
 
-# > [Lesson 2](CC102/Lesson%202.md)
+# > [Lesson 2](/CC102/Lesson%202.md)
