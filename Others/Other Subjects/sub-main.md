@@ -2,6 +2,8 @@
 
 # Table of Contents (Minor Subjects)
 ## HUM101
+### > [Lesson 1](HUM101/Lesson%201.md)
+### > [Lesson 2](HUM101/Lesson%202.md)
 
 ## SOCSCI103
 ### > [Lesson 1](SOCSCI103/Lesson%201.md)
