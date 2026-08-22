@@ -1,6 +1,7 @@
 ### > [Table of Contents](../sub-main.md)
-# Midterms
-## Basketball and Volleyball.
+# PATHFIT103
+---
+## Midterms - Basketball and Volleyball.
 - Sidenote:
   - After the Intramurals, there will be no discussions.
   - There will only be Practicums.
