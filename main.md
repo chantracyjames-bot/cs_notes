@@ -26,4 +26,4 @@
 ## Object-Oriented Programming (CSP104)
 ### > [Lesson 1](CSP104/Lesson%201.md)
 ---
-## Minor Subjects > [here](Others/Other%20Subjects/sub-main.md)
+## Minor Subjects > [here](Other%20Subjects/sub-main.md)
