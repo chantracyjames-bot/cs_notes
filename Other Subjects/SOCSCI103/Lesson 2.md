@@ -1,4 +1,4 @@
-### > [Table of Contents](sub-main.md)
+### > [Table of Contents](../sub-main.md)
 # SOCSCI103
 ---
 ## Target
@@ -139,3 +139,5 @@
 	- Keeping track of the global economy and the economies of member countries.
 	- Lending to Countries with balance of payments difficulties.
 	- Giving help to member.
+
+# > [Lesson 3](/Other%20Subjects/SOCSCI103/Lesson%203.md)

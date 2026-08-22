@@ -1,4 +1,4 @@
-### > [Table of Contents](sub-main.md)
+### > [Table of Contents](../sub-main.md)
 # SOCSCI103
 ---
 ## Target
@@ -112,4 +112,4 @@
 - Globalization is affecting every facet of our lives, positively and negatively. It affects our economies, education, culture, businesses, and personal lives.
 - We must make proper use of every available tool globalization has given us to improve our lives and society. Students should take advantage of educational gadgets to enhance their academic performance. Those in business should also do the same.
 
-## > [Lesson 2](Other%20Subjects/SOCSCI103/Lesson%202.md)
+## > [Lesson 2](/Other%20Subjects/SOCSCI103/Lesson%202.md)

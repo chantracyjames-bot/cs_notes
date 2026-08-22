@@ -1,4 +1,4 @@
-### > [Table of Contents](sub-main.md)
+### > [Table of Contents](../sub-main.md)
 # PATHFIT103
 ---
 ## Midterms - Basketball and Volleyball.

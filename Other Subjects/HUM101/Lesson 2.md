@@ -1,4 +1,4 @@
-### > [Table of Contents](sub-main.md)
+### > [Table of Contents](../sub-main.md)
 # HUM101
 ---
 ## Target
