@@ -1,4 +1,4 @@
-### > [Table of Contents](../sub-main.md)
+### > [Table of Contents](sub-main.md)
 # HUM101
 ---
 ## Target
@@ -114,4 +114,4 @@
 - Definition:
 	- Art has very little function, the term function being taken to mean __“practical usefulness”__. __Architecture, weaving, furniture making, and few other crafts__ have obvious purposes and are therefore __classified as functional__. But __painting, sculpture, literature, music and the theatre arts__ seem to serve no other end to amuse or provide a pleasant escape from life’s daily problem. Thus, they are __classified as non-functional art__.
 
-# > [Lesson 2](/Others/Other%20Subjects/HUM101/Lesson%202.md)
+# > [Lesson 2](Other%20Subjects/HUM101/Lesson%202.md)
