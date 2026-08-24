@@ -14,6 +14,7 @@
 ### > [Lesson 2](CC104/Lesson%202.md)
 
 ## Information Management (CC105)
+### > [notes](CC105/notes.md)
 ### > [Lesson 1](CC105/Lesson%201.md)
 ### > [Lesson 2](CC105/Lesson%202.md)
 ### > [Lesson 3](CC105/Lesson%203.md)
