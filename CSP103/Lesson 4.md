@@ -99,7 +99,7 @@
 			- The development of the microprocessor in the 1970s, such as Intel’s 4004, led to the creation of microcomputers—small, affordable computers for personal use.
 		- Examples:
 			- Altair 8800 (1975) 
-					-The first commercially successful personal computer, marking the beginning of the personal computing era.
+				- The first commercially successful personal computer, marking the beginning of the personal computing era.
 			- Apple I (1976) 
 				- Developed by Steve Jobs and Steve Wozniak, Apple’s first product introduced personal computing to a wider audience. 
 			- IBM PC (1981)
@@ -127,5 +127,5 @@
 				- Brings processing closer to the user, enabling realtime data analysis and applications.
 		- Significance:
 			- The convergence of technologies between supercomputers and mobile devices highlights the interconnected nature of modern computing systems and their collective advancements in efficiency and capability.
-
+<!-- too lazy to highlight stuff at the given moment-->
 # > [Lesson 5](/CSP103/Lesson%205.md)
