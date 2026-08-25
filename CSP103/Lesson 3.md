@@ -25,7 +25,7 @@
 	- __Quality and Safety__
 		- Standards __benchmark product performance and safety__.
 		- For example, _cybersecurity_ standards ensure that products meet specific criteria to __protect users from cyber threats and safety__.
-	- __Facilitation Innovation__
+	- __Facilitating Innovation__
 		- Standards __establish clear frameworks for development__, enabling innovators to create technologies that __work harmoniously with existing systems__.
 	- __Compatibility__
 		- Standards ensure both __backward and forward compatibility__, maintaining the utility of older technologies.
@@ -83,7 +83,8 @@
 				- The __modern standard__ for high-quality digital video and audio transmission.
 			- __DisplayPort__
 				- Another digital display standard __commonly used in highend monitors__.
-		- Example: _HDMI_ is a widely used standard for transmitting high-definition video and audio signals between computers, TVs, and monitors.
+		- Example
+			- _HDMI_ is a widely used standard for transmitting high-definition video and audio signals between computers, TVs, and monitors.
 		- Diagram:
 			![[CSP103-9.png]]
 	- __Networking Standards__
@@ -93,7 +94,7 @@
 		- Common Networking Standards:
 			- __Ethernet__ (_IEEE 802.3_)
 				- A standard for __wired LAN communication__.
-			- __Wi-Fi__ (_IEEE 801.11_)
+			- __Wi-Fi__ (_IEEE 802.11_)
 				- Short for __Wireless Fidelity__.
 				- Standards for __wireless network communications__.
 			- __Bluetooth__
@@ -105,7 +106,7 @@
 	- Some of the significant standard organizations include:
 		- __International Organization for Standardization__ (_ISO_)
 			- Develops and publishes standards that affect various industries, including computing, ensuring compatibility and safety on a global scale.
-		- __International Electrical and Electronics Engineers__ (_IEEE_)
+		- __Institute of Electrical and Electronics Engineers__ (_IEEE_)
 			- One of the larges organizations that set standards for electronic and electrical technologies.
 			- It includes widely-used networking protocols like Ethernet (_IEEE 802.3_) and Wi-Fi (_IEEE 801.11_).
 		- __American National Standards Institute__ (_ANSI_)
@@ -118,18 +119,18 @@
 			- Enruing that communication systems worldwide remain compatible and efficient.
 		
 
-| Organization | Full Name                                         | Founded | Primary Focus                                                  | Key Standards                                            | Scope                    | Notable Contibutions                                                                                    |
-| ------------ | ------------------------------------------------- | ------- | -------------------------------------------------------------- | -------------------------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------- |
-| ISO          | International Organization for Standardizations   | 1947    | Global standards across various industries                     | ISO/IEC 27001 (Information Security Management)          | International            | Developed numerous computing standards, including quality and security standards (ISO 9000, ISO 27000). |
-| IEEE         | International Electrical and Electonics Engineers | 1963    | Electrical, electronic, computing, and networking              | IEEE 802.3 (Ethernet), IEEE 802.11 (Wi-Fi)               | International            | Major contributions in network protocols like Ethernet and Wi-Fi.                                       |
-| ANSI         | American National Standards Institutes            | 1918    | U.S. national standards and alignment with international nurms | ANSI C (Programming Language), ANSI SQL (Databases)      | National (United States) | Prominent in standardizing programming languages like C and SQL                                         |
-| ITU          | International Telecommunications Union            | 1865    | Telecommunications and radio communications                    | ITU-T (Telecom Standards), ITU-R (Radio Frequencies)     | International            | Critical in defining telecom and broadcast standards globally.                                          |
-| W3C          | World Wide Web Consortium                         | 1994    | Web technologies and internel standards                        | HTML, CSS, XML, HTTP                                     | International            | Shaped the modern web by creating core web standards like HTML and CSS                                  |
-| IETF         | Internet Engineering Task Force                   | 1986    | Internet and networking protocols                              | TCP/IP, HTTP/2, DNS                                      | International            | Key contributor to the development of the internet and network protocol standards.                      |
-| ECMA         | European Computers Manufacturers Association      | 1961    | Information technology and consumer electronics                | ECMAScript (JavaScript), ECMA-262 (Scripting Language)   | International            | Responsible for standardizing JavaScript, a critical web technology.                                    |
-| VESA         | Video Electronics Standards Association           | 1989    | Video and display technologies                                 | DisplayPort, EDID (Extended Display Identification Data) | International            | Developed the DisplayPort standard for video displays.                                                  |
-| T10          | Technical Committee T10                           | 1962    | Storage interfaces and protocols                               | SCSI (Small Computer System Interface)                   | International            | Created and maintained the SCSI storage standard, a critical protocol for hard drives.                  |
-| JEDEC        | Joint Electron Device Engineering Council         | 1958    | Semiconductor memory and microelectronics                      | DDR RAM standards (DDR, DDR2, DDR3, DDR4                 | International            | Established the widelyused DDR memory standards for computers.                                          |
+| Organization | Full Name                                       | Founded | Primary Focus                                                  | Key Standards                                            | Scope                    | Notable Contibutions                                                                                    |
+| ------------ | ----------------------------------------------- | ------- | -------------------------------------------------------------- | -------------------------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------- |
+| ISO          | International Organization for Standardizations | 1947    | Global standards across various industries                     | ISO/IEC 27001 (Information Security Management)          | International            | Developed numerous computing standards, including quality and security standards (ISO 9000, ISO 27000). |
+| IEEE         | Institute Electrical and Electonics Engineers   | 1963    | Electrical, electronic, computing, and networking              | IEEE 802.3 (Ethernet), IEEE 802.11 (Wi-Fi)               | International            | Major contributions in network protocols like Ethernet and Wi-Fi.                                       |
+| ANSI         | American National Standards Institutes          | 1918    | U.S. national standards and alignment with international nurms | ANSI C (Programming Language), ANSI SQL (Databases)      | National (United States) | Prominent in standardizing programming languages like C and SQL                                         |
+| ITU          | International Telecommunications Union          | 1865    | Telecommunications and radio communications                    | ITU-T (Telecom Standards), ITU-R (Radio Frequencies)     | International            | Critical in defining telecom and broadcast standards globally.                                          |
+| W3C          | World Wide Web Consortium                       | 1994    | Web technologies and internel standards                        | HTML, CSS, XML, HTTP                                     | International            | Shaped the modern web by creating core web standards like HTML and CSS                                  |
+| IETF         | Internet Engineering Task Force                 | 1986    | Internet and networking protocols                              | TCP/IP, HTTP/2, DNS                                      | International            | Key contributor to the development of the internet and network protocol standards.                      |
+| ECMA         | European Computers Manufacturers Association    | 1961    | Information technology and consumer electronics                | ECMAScript (JavaScript), ECMA-262 (Scripting Language)   | International            | Responsible for standardizing JavaScript, a critical web technology.                                    |
+| VESA         | Video Electronics Standards Association         | 1989    | Video and display technologies                                 | DisplayPort, EDID (Extended Display Identification Data) | International            | Developed the DisplayPort standard for video displays.                                                  |
+| T10          | zTechnical Committee T10                        | 1962    | Storage interfaces and protocols                               | SCSI (Small Computer System Interface)                   | International            | Created and maintained the SCSI storage standard, a critical protocol for hard drives.                  |
+| JEDEC        | Joint Electron Device Engineering Council       | 1958    | Semiconductor memory and microelectronics                      | DDR RAM standards (DDR, DDR2, DDR3, DDR4                 | International            | Established the widelyused DDR memory standards for computers.                                          |
 
 - Diagram:
 	![[CSP103-10.png]]
