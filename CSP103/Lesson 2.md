@@ -18,7 +18,7 @@
 	+ Each componnet is crucial to the computer's ability to process data, store information, and interact with users. 
 	+ By understanding these components, certain insight will be gained into how computers perform tasks, manage resources, and support various applications.
 - Figure:
-	![[CC104-0.png]]
+	![[CSP103-0.png]]
 ### __- Central Processing Unit (CPU)__
 - Definition:
 	* The _CPU_ is often called the "__brain__" of the computer, as it is __responsible for executing instructions, performing calculations, and managing data__ flow within the system.
