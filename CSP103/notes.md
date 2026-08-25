@@ -204,7 +204,7 @@ Higher Performance                                           Higher Latency
 	- has two types
 		- Dynamic RAM
 			- the most comon type of RAM
-			- needs to be refreshed thousands of time per second
+			- needs to be refreshed thousands of times per second
 			- it stores all bit of data in a tiny capacitor
 		- Static RAM
 			- faster and more expensive than DRAM
@@ -277,7 +277,7 @@ Higher Performance                                           Higher Latency
 	- Quality and Safety
 		- benchmarks product performance and safety
 		- e.g. cybersecurity protect users from cyber threats and ensures their safety
-	- Facilitation Innovation
+	- Facilitating Innovation
 		- establish clear frameworks for development
 		- enables technologies that work harmoniously with existing systems
 	- Compatibility
@@ -354,7 +354,7 @@ Higher Performance                                           Higher Latency
 			- Ensuring that the web functions uniformly across all browsers and platforms.
 		- __International Telecommunication Union__ (_ITU_)
 			- This organization focuses on developing global standards for telecommunications.
-			- Enruing that communication systems worldwide remain compatible and efficient.
+			- Ensuring that communication systems worldwide remain compatible and efficient.
 
 | Organization | Full Name                                         | Founded | Primary Focus                                                  | Key Standards                                            | Scope                    | Notable Contibutions                                                                                    |
 | ------------ | ------------------------------------------------- | ------- | -------------------------------------------------------------- | -------------------------------------------------------- | ------------------------ | ------------------------------------------------------------------------------------------------------- |
