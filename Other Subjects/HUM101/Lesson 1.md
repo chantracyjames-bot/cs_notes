@@ -6,6 +6,8 @@
 	- Orient the students with the academic/classroom policies and online decorum and netiquettes. 
 	- Identify elements and principles of design and use them in creating their own masterpiece.
 	- Deepen their sensitivity to self, community, and society.
+	- Identify the ways of representing the subject of art and use them in creating their own masterpiece. 
+	- Analyze and appraise works of art based on aesthetic value, historical context, tradition, social relevance.
 
 ## Abstraction or Background
 - What is Humanities?
@@ -61,7 +63,7 @@
 	- However “ugly” the subject, if we find the presentation a sense of order, a harmonious arrangement of formal elements, then we can also experience aesthetic pleasure from looking at it. Beauty in art may be result of the successful organization of lines, colors, shapes and spaces in order to convey an idea or emotion.
 ### C. DEFINITIONS OF ART 
 - Definition:
-	- “The right reason of doing things”- Aristotle 
+	- “The right reason of doing things” – Aristotle 
 	- Is that which brings life in harmony with the beauty of the world – Plato 
 	- Is the whole spirit of man – Ruskin 
 	- Is the medium by which the artist communicates himself to his fellows – Charlton Noyes 
@@ -82,16 +84,16 @@
 	1. __Practical or useful arts__ – when human activity is directed to produce things like artifacts and utensils, which cope the human needs. 
 	2. __Fine arts__ – which are the products of human creative activity in so far as they express beauty in different ways and media, for the contemplation of the mind and the relaxation of the spirit. 
 	3. __Liberal Arts__ – in which intellectual efforts are considered. 
-	4. __Major Arts__ – which are chara__cterized by their actual and potential expressiveness. 
+	4. __Major Arts__ – which are characterized by their actual and potential expressiveness. 
 	5. __Minor Arts__ – which are connected with practical uses and purposes. 
 2. According to media and forms.
-	1. __Plastic Arts__ –which are developed through space and perceived by the sense of sight.
+	1. __Plastic Arts__ – which are developed through space and perceived by the sense of sight.
 	2. __Mixed Arts__ – which use two or more media.
-	3. __Phonetic Arts__- which are based on sounds and words as media of expression.
+	3. __Phonetic Arts__ - which are based on sounds and words as media of expression.
 - Other useful definitions 
 	1. __Beauty__ – the sensual quality or qualities in a thing or idea which excites one’s immediate admiration, pleasure or satisfaction for itself rather than for its uses 
 	2. __Aesthetic__ – it pertains to beauty or object which emphasizes beauty rather than usefulness. 
-	3. __Art Appreciation__- is the ability to interpret or understand arts and enjoy them. 
+	3. __Art Appreciation__ – is the ability to interpret or understand arts and enjoy them. 
 	4. __Art Education__ – is the study of the elements and principles of art or design and their proper application to all things made by man. 
 	5. __Graphic Art__ – it covers any form of visual artistic representation.
 
@@ -107,11 +109,46 @@
 	4. __Surrealism__ – an invented word meaning super-realism attempts to show the inside of the man’s mind as the appearance of his outside world 
 	5. __Cubism__ – through the use of cubes or geometrical figures to represent the object 
 	6. __Fauvism__ – through the use of colour 
-	7. __Expressionism__ - an art which the artist is more concerned with expressing his emotional reaction to an object or situation. 
+	7. __Expressionism__ – an art which the artist is more concerned with expressing his emotional reaction to an object or situation. 
 - Subject and Content 
 	- While subject refers to the objects depicted by the artist, content refers to what the artist expresses or communicates on the whole in his work. 
 ### b. The functions of art 
 - Definition:
 	- Art has very little function, the term function being taken to mean __“practical usefulness”__. __Architecture, weaving, furniture making, and few other crafts__ have obvious purposes and are therefore __classified as functional__. But __painting, sculpture, literature, music and the theatre arts__ seem to serve no other end to amuse or provide a pleasant escape from life’s daily problem. Thus, they are __classified as non-functional art__.
 
+## Ways of Representing the Subject
+### Realism
+- Definition:
+	- Also called Realistic.
+	- Is the protrayal of things in life or reality without idealizing them.
+- Figure:
+	![[HUM101-0.png]]
+### Abstraction
+- Definition:
+	- When the subject is not presented as an objective reality but only the feeling or idea of the artist is the one shown.
+- Figure:
+	![[HUM101-1.png]]
+### Symbolism
+- Definition:
+	- It can simply be an emblem that assumes a new meaning originating from a highly personal and unique association in the mind of the creator.
+- Figure:
+	![[HUM101-2.png]]
+## Surrealism
+- Definition:
+	- An invented word meaning super-realism attempts to show the inside of man's mind as the appearance of his outside world.
+- Figure:
+	![[HUM101-3.png]]
+	![[HUM101-4.png]]
+## Cubism
+- Definition:
+	- It is through the use of cubes or geometrical figures to represent the object.
+- Figure:
+	![[HUM101-5.png]]
+	![[HUM101-6.png]]
+### Expressionism
+- Definition:
+	- An art in which the artist is more concerned with expressing his emotional reaction to an object or situation.
+- Figure:
+	![[HUM101-7.png]]
+	![[HUM101-8.png]]
 # > [Lesson 2](/Other%20Subjects/HUM101/Lesson%202.md)
