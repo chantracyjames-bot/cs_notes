@@ -19,7 +19,6 @@
 ### > [Lesson 1a](CC105/Lesson%201a.md)
 ### > [Lesson 2](CC105/Lesson%202.md)
 ### > [Lesson 2a](CC105/Lesson%202a.md)
-### > [Lesson 3](CC105/Lesson%203.md)
 ## Architecture and Organization (CSP103)
 ### > [notes](CSP103/notes.md)
 ### > [Lesson 1](CSP103/Lesson%201.md)
