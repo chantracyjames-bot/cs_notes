@@ -62,3 +62,79 @@
 		- Free just by logging in or signing up.
 
 ## TOPCIT Reviewer
+### 1. Understanding Data
+- A) Concept and characteristics of data, information, and knowledge.
+	1. Fact
+		- Phenomenon
+		- a state of disorder in reality
+		- something that exists without being observed by others
+	2. Data
+		- Factual Data
+		- refers to the collected resource itself
+		- discovered, investigated, collected, and created in the real world
+		- data are related to a fact
+		- natural state free of the values and judgements of human beings
+		- data that exists widely in the real world
+		- simple facts that are not for a specific purpose
+	3. Information
+		- Treatment and Processing
+		- data that are organized, classified, and systemized
+		- necessary for achieving a specific purpose
+		- data that are organized into meaningful patterns
+		- data are treated and processed by a certain program
+		- achieves a specific purpose
+	4. Knowledge
+		- Added value, generalization, and decision-making
+		- generalized from several items of concrete information
+		- created while analyzing and studying the meaning and relationship of informational data
+		- correlations between information
+		- a way as to make decisions or created added value
+		- information of the same type is grouped together
+		- human interpretation and meanings
+		- used for decision-making for creation, and added value is created
+	5. Wisdom
+		- Internalized ability
+		- a state where an individual can understand and apply knowledge
+		- mental ability to aquire, understand, apply, and develop knowledge
+B) Concept and Characteristics of data processing types.
+- Data processing system
+	- core element of the information system
+	- directly elated to the computer
+	- depends on the type of data processing
+	- how data is organized and accessed
+1. Batch processing system
+	- data that is collected for a certain period
+	- processing it all at once
+	- System-centered processing method
+		- low processing cost
+		- high system performance required
+	- Prepatory work is required
+		- collecting, classifying and organizing
+		- raw data -> writing in a file
+	- Standby time is required
+		- immediate processing now supported
+	- modifying data is complex and difficult, only until files are processed collectively
+	- Example: 
+		- Payroll processing system, 
+		- grade processing system, 
+		- utility bill processing system, etc.
+2. Online processing system
+	- Real-time processing system
+	- immediate processing of data
+	- User-centered processing method
+		- high processing cost
+		- low system performance required
+	- Prepatory is not required
+	- Data currency is maintained
+	- difficult to maintin, repair or restore
+	- Example: 
+		- Seat reservation processing systems for airlines and railroads, 
+		- bank deposit processing systems, 
+		- stock account systems for securities companies, etc.
+3. Distributed processing system
+	- connects processors and databases
+	- geographically dispersed over the network
+	- improves operation speed and reliability
+	- increases the efficiency use of resources
+	- software development is difficult
+	- security level and degree of design complexity are relatively high.
