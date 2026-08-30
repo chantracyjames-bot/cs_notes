@@ -96,6 +96,7 @@
 		- Internalized ability
 		- a state where an individual can understand and apply knowledge
 		- mental ability to aquire, understand, apply, and develop knowledge
+
 B) Concept and Characteristics of data processing types.
 - Data processing system
 	- core element of the information system
@@ -290,6 +291,7 @@ B) Concept and Characteristics of data processing types.
 	- object-oriented databases combining object-oriented technology appeared in the 1990s
 	- evolving to support large-capacity business environments like XML and NoSQL
 	![[CC105-18.png]]
+
 - B) Major types of databases
 	1. Hierarchical database
 		- hierarchically stores data in a tree format representing relationships between subordinates and superiors
@@ -342,11 +344,13 @@ B) Concept and Characteristics of data processing types.
 			- understood by humans and machines, separates content from expression
 		- hierarchical structure: 
 			- supports structure search and full text search
+
 	B) Schematic diagram and components of XML
 	- Definition:
 	    - XML Is composed of XML Document Type Detinition (DTD) and the XML schema for specifying XML: the XPath for processing XML documents: and XQuery, Extensible Stylesheet Language (XSL), XML Linking Language (XLL), etc. To create an XML document, it is necessary to fully understand the XML components and the basic syntax.
 	- Diagram of XML configuration:  
-	    ![CC105-19.png](app://440f5a1978946ed9a6e31f4680e59ecb7241/C:/Users/Tracy%20James%20Chan/Documents/GitHub/cs_notes/.images/CC105/CC105-19.png?1788060623543)
+	    ![[CC105-19.png]]
+
 - C) XML configuration: XML components
 	- XML DTD: 
 		- XML Document Type Definition XML DTD
@@ -368,7 +372,8 @@ B) Concept and Characteristics of data processing types.
 		- displays the connection and relationship between XML elements (XLink, XPointer)
 			- XLink: Recognizes and processes hyperlinks
 			- XPointer: An address of the element in an XML document.
--    D) Structure and major components of the XML processor
+
+- D) Structure and major components of the XML processor
 	- XML processor
 		- XML parser: 
 			- checks and inspects the grammar and syntax structure of an XML document
@@ -377,58 +382,64 @@ B) Concept and Characteristics of data processing types.
 		- XSL engine: 
 			- converts an XML document to a document format with expression information
 	![[CC105-20.png]]
--   E) XML document creation procedure
+
+- E) XML document creation procedure
 	- XML creation procedure:  
-    ![CC105-21.png](app://440f5a1978946ed9a6e31f4680e59ecb7241/C:/Users/Tracy%20James%20Chan/Documents/GitHub/cs_notes/.images/CC105/CC105-21.png?1788060623549)
--  F) DTD concept and creation procedure
+    ![[CC105-21.png]]
+
+- F) DTD concept and creation procedure
 	- Document Type Definition (DTD)
 		- file that explicitly declares the structure and contents of an XML document
 		- types of declaration: element type, attribute list, entity, and notation
 		- can be declared internally within the XML document or applied externally
 	- Types of DTD declaration:
+		
+		| Definition | Decalration | Yes |
+		| --- | --- | ---|
+		| Element type creation      | - element type declaration  | <!ELEMENT element name~> |
+		| Attribute list declaration | - attribute type declaration | <!ATTLIST element name~> |
+		| Entity declaration         | - entity declaration  | <!ENTITY ~>              |
+		| Notation declaration       | - notation declaration <br>- non-xml data processing: Images, etc. | <!NOTATION name ~>       |
 
-| Definition                 | Decalration                                                         | Yes                      |
-| -------------------------- | ------------------------------------------------------------------- | ------------------------ |
-| Element type creation      | - element type declaration                                          | <!ELEMENT element name~> |
-| Attribute list declaration | - attribute type declaration                                        | <!ATTLIST element name~> |
-| Entity declaration         | - entity declaration                                                | <!ENTITY ~>              |
-| Notation declaration       | - notation declaration  <br>- non-xml data processing: Images, etc. | <!NOTATION name ~>       |
--   DTD creation procedure:
-1. Step 1: DTD declaration - Describing the process of declaring DTD
+	- DTD creation procedure:
+		1. Step 1: DTD declaration 
+			- Describing the process of declaring DTD
 
-| Example 1                                                                                  | Example 2                                                                                        |
-| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
-| \<! DOCTYPE Root_Element [  <br>\<ELEMENT Root_Element(...)>  <br><...>  <br><...>  <br>]> | \<!DOCTYPE books[  <br>\<!ELEMENT book(title, author>)>  <br>\<!ELEMENT title(#PCDATA>)>  <br>]> |
-2. Step 2: Declarating an element type
+			| Example 1                                                                                  | Example 2                                                                                        |
+			| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+			| \<! DOCTYPE Root_Element [  <br>\<ELEMENT Root_Element(...)>  <br><...>  <br><...>  <br>]> | \<!DOCTYPE books[  <br>\<!ELEMENT book(title, author>)>  <br>\<!ELEMENT title(#PCDATA>)>  <br>]> |
+			
+		2. Step 2: Declarating an element type
 
-| \<!ELEMENT element_name(con tent_model)>              | \<!ELEMENT books(book*)>                            |
-| ----------------------------------------------------- | --------------------------------------------------- |
-| [Note] The asterisk* symbol indicates a case in which | an element is omitted or may appear multiple times. |
-|                                                       |                                                     |
-        
-3. Step 3: Combining XML and DTD
-	- Determines whether the DTD declaration and definition part will be created inside XML or saved as an external file.
-	- Internal declaration
-		- Defines the DTD in an XML document.
-	- External declaration
-		- Applies the DTD (Document type declaration) part to an XML document.
+			| \<!ELEMENT element_name(con tent_model)>              | \<!ELEMENT books(book*)>                            |
+			| ----------------------------------------------------- | --------------------------------------------------- |
+			| [Note] The asterisk* symbol indicates a case in which | an element is omitted or may appear multiple times. |
+			|                                                       |                                                     |
+			        
+		3. Step 3: Combining XML and DTD
+			- Determines whether the DTD declaration and definition part will be created inside XML or saved as an external file.
+			- Internal declaration
+				- Defines the DTD in an XML document.
+			- External declaration
+				- Applies the DTD (Document type declaration) part to an XML document.
+
 - G) Concept and characteristics of XML Schema, and comparison with DTD
-	-  XML Schema
+	- XML Schema
 		- introduced to replace DTD to enable the creation of data types
 		- supports complex structure definitions and namespaces (abstract entities distinguishing elements)
 		- features fully object-oriented scalability and extensive data types
-	-   Comparison of the XML Schema and DTD:
-
-|Item|XML Schema|DTD|
-|---|---|---|
-|Writing grammar|Complies with XML 1.0|EBNF + pseudo|
-|Structure|Complex|Relatively simple|
-|Namespace|Supported (Multiple namespaces can be used in a document)|Not supported (Used once in a document)|
-|DOM Support|DOM is supported and can be used because it is XML|Not supported|
-|Dynamic schema support|Supported (Selecting at runtime. Subject to change due to an interaction.)|Not supported (DTD can actually read only.)|
-|Data type|Extensive data type|Very limited data type|
-|Scalability|Fully object-oriented scalability|Extension using string subsitution|
-|Openness|Content model that supports open and closed modification|Closed structur|
+	- Comparison of the XML Schema and DTD:
+		
+		|Item|XML Schema|DTD|
+		|---|---|---|
+		|Writing grammar|Complies with XML 1.0|EBNF + pseudo|
+		|Structure|Complex|Relatively simple|
+		|Namespace|Supported (Multiple namespaces can be used in a document)|Not supported (Used once in a document)|
+		|DOM Support|DOM is supported and can be used because it is XML|Not supported|
+		|Dynamic schema support|Supported (Selecting at runtime. Subject to change due to an interaction.)|Not supported (DTD can actually read only.)|
+		|Data type|Extensive data type|Very limited data type|
+		|Scalability|Fully object-oriented scalability|Extension using string subsitution|
+		|Openness|Content model that supports open and closed modification|Closed structur|
 
 - H) Characteristics od XQuery
 	- XQuery
@@ -436,13 +447,14 @@ B) Concept and Characteristics of data processing types.
 		- technology neutral and standardized based on W3C-based XQuery 1.0
 		- easy to implement using simple syntax similar to SQL (for, let, where, return)
 	-   Characteristics of XQuery
+		
+		|Characteristics|Description|
+		|---|---|
+		|Technology neutral|A technology that is standardized based on W3C-based XQuery 1.0.|
+		|XML-based query language|DA data search and storage technology using XML.  <br>A language that is originated from an XML query language called Quilt and which includes the XPath expression.  <br>The result of the query statement written in XQuery is the list of nodes indicating a tree structure, not an XML document.|
+		|Simple and easy to implement|Easy to implement using syntax similar to SQL, such as for, let, where, and return (FLWR).|
 
-|Characteristics|Description|
-|---|---|
-|Technology neutral|A technology that is standardized based on W3C-based XQuery 1.0.|
-|XML-based query language|DA data search and storage technology using XML.  <br>A language that is originated from an XML query language called Quilt and which includes the XPath expression.  <br>The result of the query statement written in XQuery is the list of nodes indicating a tree structure, not an XML document.|
-|Simple and easy to implement|Easy to implement using syntax similar to SQL, such as for, let, where, and return (FLWR).|
--   I) Concept and characteristics of XLL
+- I) Concept and characteristics of XLL
 	- XLL
 		- standard language that performs link functions in an XML document
 		- provides a two-way link between resources and extended pointers for resource locating
@@ -474,4 +486,4 @@ B) Concept and Characteristics of data processing types.
 	- resolves the limits of analyzing large-scale data at high speed
 	- physical structure prevents reading unnecessary data, vastly improving efficiency
 	- Comparison of the column base database and row base database  
-![CC105-23.png](app://440f5a1978946ed9a6e31f4680e59ecb7241/C:/Users/Tracy%20James%20Chan/Documents/GitHub/cs_notes/.images/CC105/CC105-23.png?1788060623551)![CC105-24.png](app://440f5a1978946ed9a6e31f4680e59ecb7241/C:/Users/Tracy%20James%20Chan/Documents/GitHub/cs_notes/.images/CC105/CC105-24.png?1788060623554)
+![[CC105-23.png]]![[CC105-24.png]]
