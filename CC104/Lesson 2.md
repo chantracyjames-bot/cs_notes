@@ -47,7 +47,7 @@
 > $
   
 - Diagram:
-![[CC104-0.png]]
+![[../.images/CC104/CC104-0.png]]
 ## Two-Dimensional Arrays
 - Definition:
 	* Also known as 2-D arrays, or array of arrays.
@@ -347,6 +347,6 @@
 > \end{align*}
 > $
 - Diagram:
-	![[CC104-1.png]]
+	![[../.images/CC104/CC104-1.png]]
 
-# > [Lesson 3](CC104/Lesson%203.md)
+# > [Lesson 3](../CC104/Lesson%203.md)

@@ -141,7 +141,7 @@
   * $\Large \lfloor x \rfloor + \lfloor y \rfloor <= \lfloor x + y \rfloor$
   * $\Large x = \lfloor x \rfloor +\ x\ mod\ 1$
   * $\Large z(x\ mod\ y) = zx\ mod\ zy$
-# > [Lesson 2](/CC104/Lesson%202.md)
+# > [Lesson 2](../CC104/Lesson%202.md)
 <!--
 - Advanced Review
     - Basic Operations
