@@ -25,7 +25,7 @@
 		- The hierarchical and network databases that developed the data structure used in existing applications were the main types of database used in the early days. However, these databases had a big problem in that it was difficult to maintain consistency. To resolve these problems, relational databases appeared in the 1970s. Since then, databases have developed continuously around relational database technology. 
 		- In the 1990s, user-defined data and multimedia data needed to be managed, but existing relational data models could not handle such complex data. Accordingly, an object-oriented database combining object-oriented technology, which began to gain attention from the mid-1980s, and a database appeared. Since then, an object-oriented database that combines the advantages of both the relational database and the object-oriented database has appeared and been widely used until now. Databases are evolving from simple business applications to large-capacity and complex business environment supports to respond to changes in the IT market and technology, such as the XML database, which emerged as a response to the development of the Internet environment, and the NoSQL, which was developed to process big data.
 	- Application area of the database by era:
-		![[CC105-18.png]]
+		![[../.images/CC105/CC105-18.png]]
 - B) Major types of databases
 	- 1. Hierarchical database
 		- Definition:
@@ -109,7 +109,7 @@
 	- Definition:
 		- XML Is composed of XML Document Type Detinition (DTD) and the XML schema for specifying XML: the XPath for processing XML documents: and XQuery, Extensible Stylesheet Language (XSL), XML Linking Language (XLL), etc. To create an XML document, it is necessary to fully understand the XML components and the basic syntax.
 	- Diagram of XML configuration:
-		![[CC105-19.png]]
+		![[../.images/CC105/CC105-19.png]]
 - C) XML configuration
 	- XML components:
 
@@ -124,7 +124,7 @@
 
 - D) Structure and major components of the XML processor
 	- Structure and components of the XML processor:
-		![[CC105-20.png]]
+		![[../.images/CC105/CC105-20.png]]
 	- XML Components
 
 		| Component | Function
@@ -135,7 +135,7 @@
 
 - E) XML document creation procedure
 	- XML creation procedure:
-		![[CC105-21.png]]
+		![[../.images/CC105/CC105-21.png]]
 
 - F) DTD concept and creation procedure
 	- Definition:
@@ -275,4 +275,4 @@
 		- Column base database technology is now being actively used in the DBMS market, together with the main memory database.
 		- The column base database has the following structure and characteristics compared to the row-based database.
 	- Comparison of the column base database and row base database
-		![[CC105-23.png]]![[CC105-24.png]]
+		![[../.images/CC105/CC105-23.png]]![[../.images/CC105/CC105-24.png]]

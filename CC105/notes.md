@@ -32,7 +32,7 @@
 				- Minumums, and
 				- Maximums
 			- Diagram:
-				![[CC105-14.png]]
+				![[../.images/CC105/CC105-14.png]]
 			- Look up an the Cardinality of an ER Diagram ~~since Markdown is goated~~
 		- Example:
 			- The cardinality between a Customer and an Order, presents two questions:
@@ -290,7 +290,7 @@ B) Concept and Characteristics of data processing types.
 	- relational databases appeared in the 1970s to resolve these problems
 	- object-oriented databases combining object-oriented technology appeared in the 1990s
 	- evolving to support large-capacity business environments like XML and NoSQL
-	![[CC105-18.png]]
+	![[../.images/CC105/CC105-18.png]]
 
 - B) Major types of databases
 	1. Hierarchical database
@@ -349,7 +349,7 @@ B) Concept and Characteristics of data processing types.
 	- Definition:
 	    - XML Is composed of XML Document Type Detinition (DTD) and the XML schema for specifying XML: the XPath for processing XML documents: and XQuery, Extensible Stylesheet Language (XSL), XML Linking Language (XLL), etc. To create an XML document, it is necessary to fully understand the XML components and the basic syntax.
 	- Diagram of XML configuration:  
-	    ![[CC105-19.png]]
+	    ![[../.images/CC105/CC105-19.png]]
 
 - C) XML configuration: XML components
 	- XML DTD: 
@@ -381,11 +381,11 @@ B) Concept and Characteristics of data processing types.
 			- analyzes the syntax structure (SAX, DOM)
 		- XSL engine: 
 			- converts an XML document to a document format with expression information
-	![[CC105-20.png]]
+	![[../.images/CC105/CC105-20.png]]
 
 - E) XML document creation procedure
 	- XML creation procedure:  
-    ![[CC105-21.png]]
+    ![[../.images/CC105/CC105-21.png]]
 
 - F) DTD concept and creation procedure
 	- Document Type Definition (DTD)
@@ -486,4 +486,4 @@ B) Concept and Characteristics of data processing types.
 	- resolves the limits of analyzing large-scale data at high speed
 	- physical structure prevents reading unnecessary data, vastly improving efficiency
 	- Comparison of the column base database and row base database  
-![[CC105-23.png]]![[CC105-24.png]]
+![[../.images/CC105/CC105-23.png]]![[../.images/CC105/CC105-24.png]]

@@ -28,7 +28,7 @@
 - A) Concept and characteristics of data, information, and knowledge.
 	1. Data
 		- Data refers to the __collected resource itself__, which are the basic data __discovered, investigated, collected, and created__ in the real world. 
-		- That is, __data are related to a fact__, which refers to a __natural state free of the values and judgments__ of human heings.
+		- That is, __data are related to a fact__, which refers to a __natural state free of the values and judgments__ of human beings.
 	2. Information
 		- Information refers to various __data that are organized, classified, and systematized__ for certain purposes according to certain rules. 
 		- When data are processed in a certain form, the information necessary for __achieving a specific purpose__ is created.
@@ -124,7 +124,7 @@
 		- Definition:
 			- The term 'DBS' refers to a __computer-centered system__ that creates necessary information by __storing and managing data__ in a database.
 		- Figure:
-			![[CC105-15.png]]
+			![[../.images/CC105/CC105-15.png]]
 	2. Components of the database system
 		- Definition:
 			- As regards the processing of data stored in a database, there is a user who processes it, a language that can manipulate and read data in the database, and DBMS software that enables the processing of all data. 
@@ -140,7 +140,7 @@
 - B) Data independence and ANSI-SPARC's 3-level database architecture.
 	1. Background to introduction of the concept of data independence (reason for its necessity)
 		- Figure:
-			![[CC105-16.png]]
+			![[../.images/CC105/CC105-16.png]]
 		- Definition:
 			- To understand data independence, it is helpful to understand the background to the introduction of the concept of data independence. The opposite of data independence can be defined as data dependency. Here, the subject of dependency generally refers to an application program. An application is the interface object which interacts with users and handles the user requirements. It can be said that data dependency has the purpose of reducing continuously increasing maintenance costs, data complexity, and the number of duplicated data. The concept of data independence was also introduced to maintain independence between the screen and the database against the users' constantly evolving requirements. 
 			- It can be said that data independence is a three-schema architecture, which was proposed by the special subcommittee of the X3 committee under the American Standards Institute (ANSI) for the DBMS and its interfaces.
@@ -215,7 +215,7 @@
 		- Definition:
 			- There is a file structure that stores a database, and memory and major processes to process the file structure in DBSM.
 		- Figure:
-			![[CC105-17.png]]
+			![[../.images/CC105/CC105-17.png]]
 		- DBMS components:
 
 			| Component | Description |
@@ -228,4 +228,4 @@
 			| __Transaction manager__ | The transaction manager __checks compliance with integrity constraints and the user's rights__ while accessing the database. <br> __Performs restoration__ when controlling transactions concurrently or when a __failure__ occurs. |
 			| __Stored data manager__ | The stored data manager __manages access to the user database and catalog stored in the disk__. (Request to the file manager of the OS.) |
 
-# > [Lesson 2a](/CC105/Lesson%202a.md)
+# > [Lesson 2a](../CC105/Lesson%202a.md)

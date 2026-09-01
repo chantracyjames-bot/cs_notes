@@ -21,11 +21,11 @@
 		```
 - Entity-Relationship Model Notations:
 	- ER Model Notation Symbols:
-![[CC105-0.png]]
+![[../.images/CC105/CC105-0.png]]
 	- ER Model Relationship Degrees:
-![[CC105-2.png]]
+![[../.images/CC105/CC105-2.png]]
 	- ER Model Relationship Cardinalities:
-![[CC105-1.png]]
+![[../.images/CC105/CC105-1.png]]
 ## Entity-Relationship Model Constructs
 ### Entities
 - Definition:
@@ -154,9 +154,9 @@
 		- The presence of one of more attributes on a relationship that the relationship can be represented as an entity type.
 	- Example:
 		- Diagram of attributes on a relationship:
-			![[CC105-3.png]]
+			![[../.images/CC105/CC105-3.png]]
 		- Diagram of an associative entity:
-			![[CC105-4.png]]
+			![[../.images/CC105/CC105-4.png]]
 	- When to convert to Associative Entities?
 		- If all of the relationships for the participating entity types are "many" relationships.
 		- If the resulting associative entity type has independent meaning to end users, and preferably can be indentified with a single-attribute identifier.
@@ -172,7 +172,7 @@
 			- For instance, suppose there are two entity types, A and B, that are connected by a relationship.
 			- A cardinality constraint specifies the number of instances, of entity B that can (or must) be associated with each instance of entity A.
 			- Diagram:
-				![[CC105-9.png]]
+				![[../.images/CC105/CC105-9.png]]
 				- Treat Entity A as MOVIE and Entity B as VIDEOTAPE.
 		- Minimum and Maximum Cardinality
 			- Minimum Cardinality
@@ -180,11 +180,11 @@
 			- Maximum Cardinality
 				- Is the maximum number of instances of an entity that may be associated with a single occurence of another entity
 			- Diagram:
-				![[CC105-10.png]]
+				![[../.images/CC105/CC105-10.png]]
 				- Treat MOVIE as the Minimum Cardinality and VIDEOTAPE as the Maximum Cardinality.
 		- Example:
 			- Cardinality in Ternary Relationships with Associative Entities:
-				![[CC105-11.png]]
+				![[../.images/CC105/CC105-11.png]]
 - Degree of Relationships
 	- Definition:
 		- The number of entity types that participate in that relationship.
@@ -195,19 +195,19 @@
 		- Technically, higehr-degree relationships are possible, but they are rarely encountered in practice. These types of relationship degrees are called N-nary Relationships.
 	- Examples:
 		- Unary Relationship Diagram:
-			![[CC105-5.png]]
+			![[../.images/CC105/CC105-5.png]]
 		- Binary Relationship Diagram:
-			![[CC105-6.png]]
+			![[../.images/CC105/CC105-6.png]]
 		- Trinary Relationship Diagram:
-			![[CC105-7.png]]
+			![[../.images/CC105/CC105-7.png]]
 		- Trinary Relationship with Associative Entity Diagram:
-			![[CC105-8.png]]
+			![[../.images/CC105/CC105-8.png]]
 - Example:
 	- Modeling Time-Dependent Data:
 		- Before:
-			![[CC105-12.png]]
+			![[../.images/CC105/CC105-12.png]]
 		- After:
-			![[CC105-13.png]]
+			![[../.images/CC105/CC105-13.png]]
 - Exercise:
 	- Given:
 		- A university has a large number of courses in its catalog.
@@ -232,4 +232,4 @@
 			}
 		```
 
-# # > [Lesson 3](/CC105/Lesson%203.md)
+# > [Lesson 3](../CC105/Lesson%203.md)
