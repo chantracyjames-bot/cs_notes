@@ -1,4 +1,4 @@
-## > [Back to Main](/main.md)
+## > [Back to Main](../main.md)
 
 # Table of Contents (Minor Subjects)
 ## HUM101
