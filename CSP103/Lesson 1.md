@@ -193,7 +193,7 @@
 			* __Segmentation__ — dividing the memory into segments based on program structure.
         > When running multiple programs simultaneously, the operating system manages memory allocation so that each program gets the required memory space, using techniques like paging to ensure efficient use of RAM.
 - Figure: 
-	![[CSP103-0.png]]
+	![[../.images/CSP103/CSP103-0.png]]
 ### - __Computer Architecture__
 * Scope and Definition
 	+ Focuses on the __logical and functional design__ of a computer system.
@@ -224,9 +224,9 @@
 			* __Secondary Storage__ — _HDDs_, __SSDs__
         > The architecture dictates how frequently used data is stored in cache memory to reduce the CPU's time to access it, thereby improving performance. 
 		- Figure:
-			![[CSP103-2.png]]
+			![[../.images/CSP103/CSP103-2.png]]
 - Figure:       
-	![[CSP103-1.png]]
+	![[../.images/CSP103/CSP103-1.png]]
 ## __Common Goals and Interdependence__
 * The overarching goal of both computer organization and architecture is to design an __efficient, cost-effective, and powerful computer system__.
 * An equally well-organized set of hardware must support the design of a computer's architecture to ensure the system functions as intended.
@@ -335,4 +335,4 @@
 - Conclusion
 	* Computer organization and computer architecture are __closely related but distinct areas__ within the realm of computer science. Computer organization deals with the __physical and practical aspects of hardware design__, while computer architecture __deals with the logical and conceptual framework__ of a computer system. Together, they ensure that computers are not only __efficient and reliable but also capable of executing a wide range of tasks__, making them indispensable in the world of technology.
 
-# > [Lesson 2](/CSP103/Lesson%202.md)
+# > [Lesson 2](../CSP103/Lesson%202.md)

@@ -90,7 +90,7 @@
       - techniques
         * paging — dividing memory in fixed-size pages
         * segmentation — dividing memory into segments based on the program structure
-![[CSP103-0.png]]
+![[../.images/CSP103/CSP103-0.png]]
 ### Scope of Computer Architecture
   * logical and functional design;
   * provides logical framework for computer operation
@@ -121,33 +121,7 @@
     - cache memory — L1, L2, L3
     - main memory — RAM
     - secondary storage — HDDs, SSDs
-```
-        /\                           /\                        |------|
-       /  \                         /  \                       |      |
-      /    \                       /    \                      |      |
-     /      \                     /      \                     |      |
-    /        \                   /        \                    |      |
-   /          \                 / Central  \                   |      |
-  /            \               / Processing \                  |      |
- /--------------\             /     Unit     \                 |      |
-     |      |                /  (registers)   \                |      |
-     |      |               /------------------\               |      |
-     |      |              /  L1, L2, L3 Cache  \              |      |
-     |      |             / Static Random Access \             |      |
-     |      |            /         Memory         \            |      |
-     |      |           /--------------------------\       \--------------/
-     |      |          /        Main Memory         \       \            /
-     |      |         /    Dynamic Random Access     \       \          /
-     |      |        /             Memory             \       \        /
-     |      |       /----------------------------------\       \      /
-     |      |      /     Secondary memory (storage)     \       \    /
-     |      |     /       magnetic or flash media        \       \  /
-     |------|    /----------------------------------------\       \/
-   Higher means                                               Lower means
-Higher Performance                                           Higher Latency
- Endurance per Bit                                         Higher Persistence
-   Higher Speeds
-```
+![[../.images/CSP103/CSP103-1.png]]
 ### Common Goals and Interdependence
   * The overarching goal of both computer organization and architecture is to design an __efficient, cost-effective, and powerful computer system__.
   * An equally well-organized set of hardware must support the design of a computer's architecture to ensure the system functions as intended.

@@ -42,7 +42,7 @@
 			- This invention demonstrated the potential of mechanical devices to perform complex calculations, marking a pivotal step in the history of computing. 
 			- It reduced human error and provided a new level of computational efficiency.
 		- Figure:
-			![[CSP103-12.png]]
+			![[../.images/CSP103/CSP103-12.png]]
 	- Stepped Reckoner (1672)
 		- Inventor:
 			- Gottfried Wilhelm Leibniz
@@ -54,7 +54,7 @@
 		- Significance: 
 			- The Stepped Reckoner's ability to perform a broader range of calculations laid the groundwork for future developments in mechanical computing and inspired subsequent innovations in the field.
 		- Figure:
-			![[CSP103-13.png]]
+			![[../.images/CSP103/CSP103-13.png]]
 2. Charles Babbage's Analytical Engine
 	- The Analytical Engine (1837)
 		- Inventor:
@@ -69,7 +69,7 @@
 			- Babbage’s ideas were decades ahead of his time. 
 			- The Analytical Engine is considered a precursor to the modern computer, introducing concepts such as programmability and the separation of data and instructions.
 		- Figure:
-			![[CSP103-14.png]]
+			![[../.images/CSP103/CSP103-14.png]]
 3. The Paradigm Shift: Mechanical to Electronic Computation
 	- Electronic Numerical Integrator and Computer (ENIAC, 1945)
 		- Description:
@@ -92,7 +92,7 @@
 			- The von Neumann architecture became the foundation for all modern computer designs. 
 			- It enabled versatility in computing tasks and formed the basis for subsequent computer and software developments.
 		- Figure:
-			![[CSP103-15.png]]
+			![[../.images/CSP103/CSP103-15.png]]
 5. The Microcomputer Revolution
 	- Microcomputers (1970s-1980s)
 		- Description:
@@ -128,4 +128,4 @@
 		- Significance:
 			- The convergence of technologies between supercomputers and mobile devices highlights the interconnected nature of modern computing systems and their collective advancements in efficiency and capability.
 <!-- too lazy to highlight stuff at the given moment-->
-# > [Lesson 5](/CSP103/Lesson%205.md)
+# > [Lesson 5](../CSP103/Lesson%205.md)

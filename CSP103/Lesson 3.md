@@ -66,7 +66,7 @@
 			- _DDR_ standards govern how RAM modules communicate with the CPU.
 			- Current standards include DDR4 and DDR5, which differ in data transfer rates and power consumption.
 		- Diagram:
-			![[CSP103-8.png]]
+			![[../.images/CSP103/CSP103-8.png]]
 	- __Display Standards__
 		- Definition:
 			- Governs how __computers transmit visual data to monitors__ and other output devices.
@@ -86,7 +86,7 @@
 		- Example
 			- _HDMI_ is a widely used standard for transmitting high-definition video and audio signals between computers, TVs, and monitors.
 		- Diagram:
-			![[CSP103-9.png]]
+			![[../.images/CSP103/CSP103-9.png]]
 	- __Networking Standards__
 		- Definition:
 			- Networking standards dictate __how data is transmitted across networks__, whether __locally__ (e.g., a home network) or __globally__ (e.g., the internet). 
@@ -133,7 +133,7 @@
 | JEDEC        | Joint Electron Device Engineering Council       | 1958    | Semiconductor memory and microelectronics                      | DDR RAM standards (DDR, DDR2, DDR3, DDR4                 | International            | Established the widelyused DDR memory standards for computers.                                          |
 
 - Diagram:
-	![[CSP103-10.png]]
+	![[../.images/CSP103/CSP103-10.png]]
 ### __Strengths of Standard Organizations__
 - __Global Cooperation__
 	- Standard organizations encourage cooperation across countries and industries.
@@ -180,6 +180,6 @@
 | Key Improvements           | Basic data transfer               | Higher speed, improved power delivery          | SuperSpeed data rates (5Gbps), better power efficiency | Enhanced data rates (10GBps), introduction of USB-C | Dual-lane operation for higher speeds, USB-c focused | Thunderbolt 3 support, higher speeds (40 Gbps), optimized for USB-C                |
 | Use Case                   | Basic peripherals—mice, keyboards | Standard peripherals, external storage devices | High-speed data transfer, external storage             | Ultra high-speed transfer, video and data           | Fast data transfer, multiple devices, 4K video       | Ultra-fast data, external monitors, docking stations, and high performance devices |
 - Diagram
-		- ![[CSP103-11.png]]
+		- ![[../.images/CSP103/CSP103-11.png]]
 
-# > [Lesson 4](/CSP103/Lesson%204.md)
+# > [Lesson 4](../CSP103/Lesson%204.md)

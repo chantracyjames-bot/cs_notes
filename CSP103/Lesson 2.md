@@ -18,7 +18,7 @@
 	+ Each componnet is crucial to the computer's ability to process data, store information, and interact with users. 
 	+ By understanding these components, certain insight will be gained into how computers perform tasks, manage resources, and support various applications.
 - Figure:
-	![[CSP103-0.png]]
+	![[../.images/CSP103/CSP103-3.png]]
 ### __- Central Processing Unit (CPU)__
 - Definition:
 	* The _CPU_ is often called the "__brain__" of the computer, as it is __responsible for executing instructions, performing calculations, and managing data__ flow within the system.
@@ -43,7 +43,7 @@
 		+ Example:
 			- When calculating, the CPU may store intermediate results in registers to speed up the process and reduce the need to access slower memory location
 - Figure:
-	![[CSP103-4.png]]
+	![[../.images/CSP103/CSP103-4.png]]
 ### __- Memory__
 - Definition:
 	* __Random Access Memory__ (_RAM_) is the computer's __short-term memory__, used to __store data actively being processed__ by the CPU.
@@ -74,7 +74,7 @@
 	* Example:
 		+ After typing a document, a printer might be used. The _CPU_ sends the processed data to the printer, procuding a physical document copy.
 - Figure:
-	![[CSP103-5.jpg]]
+	![[../.images/CSP103/CSP103-5.jpg]]
 ### __- Storage Devices__
 - Definition:
 	* Are responsible for __holding data permanently or semi-permanently__, ensuring tha information can be __retained even when the computer is powered off__.
@@ -97,7 +97,7 @@
 		+ They are __small, durable__, and __do not require external power sources__.
         > You might use a flash drive to carry important documents or presentations that you need to access on different computers.
 - Figure:
-	 ![[CSP103-6.png]]
+	 ![[../.images/CSP103/CSP103-6.png]]
 ### __- Buses (Data Pathways)__
 - Definition
   * Are __communication pathways__ that __connect computer components__, allowing them to __communicate and transfer data efficiently__.
@@ -115,6 +115,6 @@
     + This signals __coordinate activities__ like reading from memory, writing to memory, and responding to input devices.
     > During a memory read operation, the control bus sends signals that trigger the memory to place the requested data onto the data bus for the CPU to read.
 - Figure:
-	![[CSP103-7.png]]
+	![[../.images/CSP103/CSP103-7.png]]
 
-# > [Lesson 3](/CSP103/Lesson%203.md)
+# > [Lesson 3](../CSP103/Lesson%203.md)
