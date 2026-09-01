@@ -140,4 +140,4 @@
 	- Lending to Countries with balance of payments difficulties.
 	- Giving help to member.
 
-# > [Lesson 3](/Other%20Subjects/SOCSCI103/Lesson%203.md)
+# > [Lesson 3](../SOCSCI103/Lesson%203.md)
