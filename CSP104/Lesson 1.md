@@ -121,7 +121,7 @@ Class = blueprint
 Object = actual instance
 ```
 - Figure:
-	![[CSP104-0.png]]
+	![[../.images/CSP104/CSP104-0.png]]
 ### Inisde a Class: Attributes and methods
 > A class groups related data and actions, or attributes and methods, respectively.
 - Attributes
@@ -232,4 +232,4 @@ CLASS Rectangle EXTENDS Shape
 - Encapsulation keeps data safe by controlling access through methods.
 - Inheritance supports reuse; polymorphism supports flexible beheavior.
 
-# > [Lesson 2](/CSP104/Lesson%202.md)
+# > [Lesson 2](../CSP104/Lesson%202.md)
