@@ -151,4 +151,4 @@
 - Figure:
 	![[HUM101-7.png]]
 	![[HUM101-8.png]]
-# > [Lesson 2](/Other%20Subjects/HUM101/Lesson%202.md)
+# > [Lesson 2](../HUM101/Lesson%202.md)
