@@ -24,7 +24,7 @@
 - One shared pool, accessed by everyone
   * Cloud service models are built on sharing on-demand computing resources over the internet. Companies and individuals pay to access a virtual pool of compute, storage, and networking that lives on remote servers owned and managed by a provides — not by them (individuals or companies).
 	- Diagram:
-		![[CSE1-A-0.png]]
+		![[../.images/CSE1-A/CSE1-A-0.png]]
 ## Cloud Deplyment Types
 - Five deployment models, one decision: who owns the infrastructure?
   * Overview:
@@ -152,4 +152,4 @@
   5. Measure Service
     + Usage is metered automatically, so systems optimize systems and users pay only for what they actually use.
 
-# > [Lesson 2](/CSE1-A/Lesson%202.md)
+# > [Lesson 2](../CSE1-A/Lesson%202.md)
