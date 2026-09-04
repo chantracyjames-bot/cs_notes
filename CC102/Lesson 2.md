@@ -1,5 +1,6 @@
-### > [Table of Contents](../main.md)
-# CC102
+### < [Back](./Lesson%201.md) :---: [Next](./Lesson%203.md) >
+# > [CC102](./CC102.md) - Fundamentals to Programming
+### Lesson 2
 ---
 ## __Programming Languages__
 - Generations of Programming Languages
@@ -205,4 +206,4 @@
             A{{Hexagon}}
         ```
 
-# > [Lesson 3](../CC102/Lesson%203.md)
+# > [Lesson 3](./Lesson%203.md)

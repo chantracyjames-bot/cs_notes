@@ -1,5 +1,6 @@
-### > [Table of Contents](../main.md)
-# CC102
+### < [Back](./CC102.md) :---: [Next](./Lesson%202.md) >
+# > [CC102](./CC102.md) - Fundamentals of Programming
+### Lesson 1
 ---
 ## Computer Systems
 - __Program__
@@ -39,4 +40,4 @@
       - Its a permanent record of data of on a disk. 
       - Stores instructions between sessions, e.g. a file stores data or instruction in secondary memory.
 
-# > [Lesson 2](../CC102/Lesson%202.md)
+# > [Lesson 2](./Lesson%202.md)
