@@ -1,5 +1,6 @@
-### > [Table of Contents](../main.md)
-# CSP104
+### < [Back](./CSP104.md) :---: [Next](./Lesson%202.md) >
+# > [CSP104](./CSP104.md) - Object-Oriented Programming
+### Lesson 1
 ---
 <!-- AI generated powerpoint presentation? -->
 ## Target
@@ -232,4 +233,4 @@ CLASS Rectangle EXTENDS Shape
 - Encapsulation keeps data safe by controlling access through methods.
 - Inheritance supports reuse; polymorphism supports flexible beheavior.
 
-# > [Lesson 2](../CSP104/Lesson%202.md)
+# > [Lesson 2](./Lesson%202.md)
