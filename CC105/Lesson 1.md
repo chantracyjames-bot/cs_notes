@@ -1,5 +1,6 @@
-### > [Table of Contents](../main.md)
-# CC105
+### < [Back](./CC105.md) :---: [Next](./Lesson%202.md) >
+# > [CC105](./CC105.md) - Information Management
+### Lesson 1
 ---
 ### Information Managememt
 - follows the IPO principle, _Input_, _Process_, and _Output_.
@@ -108,7 +109,7 @@
     * A single client is all it takes for a server to form.
   * Client
     + A user that utilize the capabilities of a server, or a "customer" of a server.
-# > [Lesson 2](../CC105/Lesson%202.md)
+# > [Lesson 2](./Lesson%202.md)
 <!-- Review TOPCIT, focusing on the technical aspects of creating databases. Finals; create a pretty decent database, manually creating the database design. -->
 <!-- Project
   * create a text file database

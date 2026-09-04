@@ -1,3 +1,7 @@
+### < [Back](./CC105.md)
+# > [CC105](./CC105.md) - Information Management
+### notes
+---
 ### Entity-Relationship Diagrams
 - Database
 	- Collection of information that's organized for easy:

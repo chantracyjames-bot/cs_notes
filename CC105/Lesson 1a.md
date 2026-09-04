@@ -1,5 +1,6 @@
-### > [Table of Contents](../main.md)
-# CC105
+### < [Back](./CC105.md) :---: [Next](./Lesson%202a.md) >
+# > [CC105](./CC105.md) - Information Management
+### Lesson 1a
 ---
 ## Target
 - Recent trends and major issues

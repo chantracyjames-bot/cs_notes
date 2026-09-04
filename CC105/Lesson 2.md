@@ -1,5 +1,6 @@
-### > [Table of Contents](../main.md)
-# CC105
+### < [Back](./Lesson%201.md) :---: [Next](./Lesson%203.md) >
+# > [CC105](./CC105.md) - Information Management
+### Lesson 2
 ---
 ## Entity Relationship Modeling
 - Concept and Definition
@@ -232,4 +233,4 @@
 			}
 		```
 
-# > [Lesson 3](../CC105/Lesson%203.md)
+# > [Lesson 3](./Lesson%203.md)
