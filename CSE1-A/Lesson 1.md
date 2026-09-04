@@ -1,5 +1,6 @@
-### > [Table of Contents](../main.md)
-# CSE1-A
+### < [Back](./CSE1-A.md) :---: [Next](./Lesson%202.md) >
+# > [CSE1-A](./CSE1-A.md) - Cloud Computing
+### Lesson 1
 ---
 ## Background
   > "The cloud" is not a place. IT's a metaphor for the internet — specifically, for sharing data or running applications on someone else's computer infrastructure (AWS, Azure, Google Cloud) instead of your own.
@@ -152,4 +153,4 @@
   5. Measure Service
     + Usage is metered automatically, so systems optimize systems and users pay only for what they actually use.
 
-# > [Lesson 2](../CSE1-A/Lesson%202.md)
+# > [Lesson 2](./Lesson%202.md)

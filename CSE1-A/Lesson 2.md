@@ -1,5 +1,6 @@
-### > [Table of Contents](../main.md)
-# CSE1-A
+### < [Back](./Lesson%201.md) :---: [Next](./Lesson%203.md) >
+# > [CSE1-A](./CSE1-A.md) - Cloud Computing
+### Lesson 2
 ---
 ## Introduction to Cloud Service Models
 - Definition:
@@ -69,4 +70,4 @@
 	> [What is Cloud Computing Architecture and its Components?](https://www.infosectrain.com/blog/what-is-cloud-computing-architecture-and-its-components/)
 	> [Cloud Computing Architecture](https://www.simplilearn.com/tutorials/cloud-computing-tutorial/cloud-computing-architecture#cloud_computing_architecture)
 	
-# > [Lesson 3](../CSE1-A/Lesson%203.md)
+# > [Lesson 3](./Lesson%203.md)
