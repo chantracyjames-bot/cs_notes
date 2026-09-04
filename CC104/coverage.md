@@ -1,5 +1,6 @@
-### > [Table of Contents](../main.md)
-# CC104
+### < [Back](./CC104.md)
+# > [CC104](./CC104.md) - Data Structures and Algorithms
+### coverage
 ---
 ## Lessons
 - _Data Structures and Algorithms_

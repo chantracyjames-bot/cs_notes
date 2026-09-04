@@ -1,5 +1,6 @@
-### > [Table of Contents](../main.md)
-# CC104
+### < [Back](./Lesson%201.md) :---: [Next](./Lesson%203.md) >
+# > [CC104](./CC104.md) - Data Structures and Algorithms
+### Lesson 2
 ---
 ## Calculating the Memory Address of an element
 - There are various ways to calculate the memory address of an element inside an array. 
@@ -349,4 +350,4 @@
 - Diagram:
 	![[../.images/CC104/CC104-1.png]]
 
-# > [Lesson 3](../CC104/Lesson%203.md)
+# > [Lesson 3](./Lesson%203.md)

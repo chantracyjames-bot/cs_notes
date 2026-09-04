@@ -1,5 +1,6 @@
-### > [Table of Contents](../main.md)
-# CC104
+### < [Back](./CC104.md) :---: [Next](./Lesson%202.md) >
+# > [CC104](./CC104.md) - Data Structures and Algorithms
+### Lesson 1
 ---
 ## Problem Solving Process (PSP)
 - Background
@@ -141,7 +142,7 @@
   * $\Large \lfloor x \rfloor + \lfloor y \rfloor <= \lfloor x + y \rfloor$
   * $\Large x = \lfloor x \rfloor +\ x\ mod\ 1$
   * $\Large z(x\ mod\ y) = zx\ mod\ zy$
-# > [Lesson 2](../CC104/Lesson%202.md)
+# > [Lesson 2](./Lesson%202.md)
 <!--
 - Advanced Review
     - Basic Operations
