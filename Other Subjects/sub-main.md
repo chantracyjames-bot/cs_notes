@@ -1,14 +1,10 @@
-## > [Back to Main](../main.md)
+## < [Back](../index.md)
+# Table of Contents
+---
 
-# Table of Contents (Minor Subjects)
-## HUM101
-### > [Lesson 1](HUM101/Lesson%201.md)
-### > [Lesson 2](HUM101/Lesson%202.md)
-
-## SOCSCI103
-### > [Lesson 1](SOCSCI103/Lesson%201.md)
-### > [Lesson 2](SOCSCI103/Lesson%202.md)
-## PATHFIT103
-### > [Lesson 1](PATHFIT103/Lesson%201.md)
+## Minor Subjects
+### [HUM101](HUM101/HUM101.md) - Art Appreciation
+### [SOCSCI103](SOCSCI103/SOCSCI103.md) - The Contemporary World
+### [PATHFIT103](PATHFIT103/PATHFIT103.md) - Physical Activity Towards Health and Fitness
 
 <!-- i am lazy -->
