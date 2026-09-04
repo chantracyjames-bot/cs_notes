@@ -1,5 +1,6 @@
-### > [Table of Contents](../sub-main.md)
-# SOCSCI103
+### < [Back](./Lesson%201.md) :---: [Next](./Lesson%203.md) >
+# > [SOCSCI103](./SOCSCI103.md) - The Contemporary World
+### Lesson 2
 ---
 ## Target
 - Learning Outcomes:
