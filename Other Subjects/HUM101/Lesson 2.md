@@ -1,7 +1,8 @@
-### > [Table of Contents](../sub-main.md)
-# HUM101
+### < [Back](./Lesson%201.md) :---: [Next](./Lesson%203.md) >
+# > [HUM101](./HUM101.md) - Art Appreaciation
+### Lesson 2
 ---
 
 
-# > [Lesson 3](../HUM101/Lesson%203.md)
+# > [Lesson 3](./Lesson%203.md)
 <!--syllabus plez-->

@@ -1,5 +1,6 @@
-### > [Table of Contents](../sub-main.md)
-# HUM101
+### < [Back](./HUM101.md) :---: [Next](./Lesson%202.md) >
+# > [HUM101](./HUM101.md) - Art Appreciation
+### Lesson 1
 ---
 ## Target
 - Learning Objectives
@@ -151,4 +152,4 @@
 - Figure:
 	![[HUM101-7.png]]
 	![[HUM101-8.png]]
-# > [Lesson 2](../HUM101/Lesson%202.md)
+# > [Lesson 2](./Lesson%202.md)
