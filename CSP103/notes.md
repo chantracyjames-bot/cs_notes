@@ -1,5 +1,6 @@
-### > [Table of Contents](../main.md)
-# CSP103 - Notes
+### < [Back](./CSP103.md)
+# > [CSP103](./CSP103.md) - Architecture and Organization
+### notes
 ---
 ## Lesson 1
 ### What is Computer?

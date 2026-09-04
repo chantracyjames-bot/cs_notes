@@ -1,5 +1,6 @@
-### > [Table of Contents](../main.md)
-# CSP103
+### < [Back](./Lesson%201.md) :---: [Next](./Lesson%203.md) >
+# > [CSP103](./CSP103.md) - Architecture and Organization
+### Lesson 2
 ---
 ## Target
 - Learning Outcomes:
@@ -117,4 +118,4 @@
 - Figure:
 	![[../.images/CSP103/CSP103-7.png]]
 
-# > [Lesson 3](../CSP103/Lesson%203.md)
+# > [Lesson 3](./Lesson%203.md)
