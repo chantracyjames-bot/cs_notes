@@ -10,7 +10,7 @@
 		- Updates, and
 		- Retrieval
 	- There is a lot that is moving in a database.
-- Entify-Relationship Diagrams (ERDs)
+- Entity-Relationship Diagrams (ERDs)
 	- Provides a visual way to understand how data is related and how it works together. 
 	- Entity
 		- An object, can be:
@@ -24,8 +24,8 @@
 	- Attributes
 		- Entities can have properties or traits.
 	- Note:
-		- Enities are always depicted as ROWS
-		- Attributes are always depicter as COLUMNS
+		- Entities are always depicted as ROWS
+		- Attributes are always depicted as COLUMNS
 	- Relationships
 		- Describes how entities interact with each other.
 		- When there is a line that connects to or more entities together, there is an interaction that is happening between them.
@@ -33,7 +33,7 @@
 		- Cardinality
 			- Help define the relationship in a numerical context.
 			- Particularly in:
-				- Minumums, and
+				- Minimums, and
 				- Maximums
 			- Diagram:
 				![[../.images/CC105/CC105-14.png]]
@@ -99,7 +99,7 @@
 	5. Wisdom
 		- Internalized ability
 		- a state where an individual can understand and apply knowledge
-		- mental ability to aquire, understand, apply, and develop knowledge
+		- mental ability to acquire, understand, apply, and develop knowledge
 
 B) Concept and Characteristics of data processing types.
 - Data processing system
@@ -113,7 +113,7 @@ B) Concept and Characteristics of data processing types.
 	- System-centered processing method
 		- low processing cost
 		- high system performance required
-	- Prepatory work is required
+	- Preparatory work is required
 		- collecting, classifying and organizing
 		- raw data -> writing in a file
 	- Standby time is required
@@ -129,9 +129,9 @@ B) Concept and Characteristics of data processing types.
 	- User-centered processing method
 		- high processing cost
 		- low system performance required
-	- Prepatory is not required
+	- Preparatory is not required
 	- Data currency is maintained
-	- difficult to maintin, repair or restore
+	- difficult to maintain, repair or restore
 	- Example: 
 		- Seat reservation processing systems for airlines and railroads, 
 		- bank deposit processing systems, 
@@ -149,7 +149,7 @@ B) Concept and Characteristics of data processing types.
 	- File processing system
 		- method of storing and retrieving paper documents
 		- widely used before the computer was invented
-		- began to include computerized records in the 1960s
+		- began to include computerized records in the 1960's
 		- designed to arrange and manage the data recorded by the user on a physical disk
 		- hierarchical file system with a directory structure
 		- each application program accesses an individual file to process in order to search, input, delete, and modify it
@@ -490,4 +490,4 @@ B) Concept and Characteristics of data processing types.
 	- resolves the limits of analyzing large-scale data at high speed
 	- physical structure prevents reading unnecessary data, vastly improving efficiency
 	- Comparison of the column base database and row base database  
-![[../.images/CC105/CC105-23.png]]![[../.images/CC105/CC105-24.png]]
+	![[../.images/CC105/CC105-23.png]]![[../.images/CC105/CC105-24.png]]
