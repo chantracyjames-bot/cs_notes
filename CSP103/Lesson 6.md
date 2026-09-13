@@ -1,0 +1,84 @@
+### < [Back](Lesson%205.md)
+# > [CSP103](./CSP103.md) - Architecture and Organization
+### Lesson 6
+---
+## Target
+- Learning Outcomes
+	- Describe the seven levels of computer architecture and explain how each layer contributes to the operation of a computer system. •
+	- Differentiate the functions of digital logic, micro-architecture, instruction set architecture, operating systems, assembly language, high-level programming languages, and application software.
+	- Analyze how software and hardware interact across different abstraction levels to execute computer programs efficiently. 
+	- Evaluate the advantages and disadvantages of each architectural level in terms of performance, usability, portability, complexity, and system design. 
+	- Apply the concepts of layered computer architecture to explain program execution from user applications down to digital circuits.
+- Topics
+	6. Computer System Level Hierarchy 
+		- 6.1. Seven (7) levels of Computer System Level Hierarchy 
+		- 6.2.Advantages and Disadvantages
+
+## Computer System Level Hierarchy
+- Background
+	- A conceptual framework that describes the different abstraction layers from the lowest hardware level to the highest user level.
+	- Explains how computational activities are organized and how users interact systems through various interfaces and abstraction layers.
+	- It shows how a computer works from the __physical hardware at the bottom__ to the __application and users at the top__.
+- Levels
+	- Level 0 - Digital Logic
+		- __Circuits and Gates__.
+		- Is the __basis for digital computing__ and provides a fundamental understanding __how circuits and hardware communicate within a computer__.
+	- Level 1 - Control
+		- __Control Units and Microcode__.
+		- Is the level __where the microcode is used_ in the system.
+	- Level 2 - Machines
+		- __Instruction Set Architectures__
+		- This level consists of machines.
+		- __Different types of hardware are used__ in a computer system to __perform various activities__.
+	- Level 3 - System Software
+		- __Operating System__
+		- Mainly helps operate the system and __establishes the connection between the hardware and the user interface__.
+	- Level 4 - Assembly
+		- __Assembly Code__
+		- The machines understands only the __assembly language__, and hence in order, all the high-level languages are changed in the assembly language.
+	- Level 5 - High-Level Languages
+		- __High-Level Programming Languages__
+		- Consists of C++, Java, FORTRAN, and many other languages.
+		- This is __where the user provide commands__.
+	- Level 6 - Users
+		- __Users and Executable Programs__
+		- This is the last level of the computer system hierarchy.
+		- The part where the __users can establish communication with the computer__
+- Overview
+	![[../.images/CSP103/CSP103-16.png]]
+- Example:
+	- Saving a Document
+		- User                 --> clicks "Save"
+		- High-Level Languages --> program requests file operations
+		- Assembly             --> program converted into assembly
+		- System Software      --> manages file operation
+		- Machines             --> CPU executes machine instructions
+		- Control              --> micro-operations
+		- Digital Logic        --> electrical circuits
+		-                      --> File Saved
+- Advantages
+	- **Modularity:** The hierarchical approach to organizing computer systems allows for greater modularity, which can make it easier to develop, test, and maintain individual components.
+	- **Standardization:** The use of standard interfaces and protocols between layers of the hierarchy can make it easier to integrate new components into a system and to reuse existing components in new contexts.
+	- **Abstraction:** Each layer of the hierarchy can provide a higher level of abstraction, allowing programmers and users to interact with the system at a higher level of complexity without having to deal with the details of lower-level components.
+	- **Scalability:** The hierarchical approach can make it easier to scale a system to handle larger workloads by adding more resources or components at different levels of the hierarchy.
+- Disadvantages
+	- **Overhead:** The additional layers of abstraction and communication between components can introduce additional overhead and complexity, which can reduce overall system performance.
+	- **Dependencies:** Changes to one layer of the hierarchy can have ripple effects on other layers, which can make it difficult to modify or update a system without causing unintended consequences.
+	- **Inefficiency:** In some cases, the hierarchical approach can lead to inefficiencies in the use of system resources, as components at different levels may not be optimized to work together efficiently.
+	- **Complexity:** The hierarchical approach can make it difficult for users and developers to understand and navigate the system, especially as the number of components and layers increases.
+- Features
+	- **Abstraction:** Each level in the hierarchy provides a level of abstraction from the underlying hardware, allowing software developers to write programs that are independent of the specific hardware components in the system.
+	- **Modularity:** Each level in the hierarchy can be designed and developed independently, allowing for easier maintenance and upgrades.
+	- **Interoperability:** The different levels in the hierarchy are designed to work together seamlessly, allowing for software applications to run on different hardware platforms and operating systems.
+	- **Scalability:** The hierarchical design allows for the addition of new components and functionality, making it possible to scale up or down the system as needed.
+	- **Security:** The different levels in the hierarchy can be isolated from each other, providing a layered approach to security and reducing the risk of security breaches.
+- Other Hierarchical Levels
+	- Hardware Level
+		- This is the lowest level in the hierarchy and includes all physical components of the computer system such as the CPU, memory, storage devices, input/output devices, and other components.
+	- Firmware Level
+		- This level includes the software that is stored in non-volatile memory, such as the BIOS or firmware on other devices, and is responsible for initializing and controlling the hardware.
+	- Operating System Level
+		- This level includes the software that manages the resources of the computer system, provides a user interface, and runs application programs.
+		- Examples of operating systems include Windows, macOS, and GNU/Linux.
+	- Application Level
+		- This level includes the software applications that run on the operating system and perform specific tasks such as word processing, spreadsheet calculations, or playing games.
